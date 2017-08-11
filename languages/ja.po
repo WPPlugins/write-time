@@ -1,0 +1,5635 @@
+# Translation of Development in Japanese
+# This file is distributed under the same license as the Development package.
+msgid ""
+msgstr ""
+"Project-Id-Version: write time\n"
+"POT-Creation-Date: 2014-11-08 22:54+0900\n"
+"PO-Revision-Date: 2014-11-08 22:55+0900\n"
+"Last-Translator: yonetsu <yonetsuu@yahoo.co.jp>\n"
+"Language-Team: shinji yonetsu\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../write-time.php:136
+msgid "minute"
+msgstr "分"
+
+#: ../write-time.php:138
+msgid "second"
+msgstr "秒"
+
+#~ msgctxt "text direction"
+#~ msgid "ltr"
+#~ msgstr "ltr"
+
+#~ msgid ""
+#~ "<strong>You have successfully updated WordPress!</strong> Please log back "
+#~ "in to see what&#8217;s new."
+#~ msgstr ""
+#~ "<strong>お使いの WordPress は正常に更新されました。</strong>新機能を見るに"
+#~ "は再びログインしてください。"
+
+#~ msgid "Trash Selected"
+#~ msgstr "選択した項目を削除"
+
+#~ msgid "Untrash Selected"
+#~ msgstr "選択した項目をゴミ箱から戻す"
+
+#~ msgid "Untrash"
+#~ msgstr "ゴミ箱から元に戻す"
+
+#~ msgid ""
+#~ "You are about to trash these items.\n"
+#~ "  'Cancel' to stop, 'OK' to delete."
+#~ msgstr ""
+#~ "これらの項目をゴミ箱に移動しようとしています。\n"
+#~ "中止するには「キャンセル」を、削除するには「OK」をクリックしてください。"
+
+#~ msgid "Press return or enter to open this panel"
+#~ msgstr "パネルを開くには Return または Enter キーを押してください"
+
+#~ msgid "Bulk Select"
+#~ msgstr "一括選択"
+
+#~ msgid "Cancel Selection"
+#~ msgstr "選択をキャンセル"
+
+#~ msgid "Delete Selected"
+#~ msgstr "選択した項目を削除"
+
+#~ msgctxt "missing menu item navigation label"
+#~ msgid "(no label)"
+#~ msgstr "(ラベルなし)"
+
+#~ msgid "%s: %l."
+#~ msgstr "%s: %l。"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: Invalid username. <a href=\"%s\">Lost your "
+#~ "password</a>?"
+#~ msgstr ""
+#~ "<strong>エラー</strong>: 無効なユーザー名です。<a href=\"%s\">パスワードを"
+#~ "お忘れですか</a>?"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: The password you entered for the username <strong>"
+#~ "%1$s</strong> is incorrect. <a href=\"%2$s\">Lost your password</a>?"
+#~ msgstr ""
+#~ "<strong>エラー</strong>: 入力されたユーザー名 <strong>%1$s</strong> のパス"
+#~ "ワードが違います。<a href=\"%2$s\">パスワードをお忘れですか</a>?"
+
+#~ msgid "Bitrate"
+#~ msgstr "ビットレート"
+
+#~ msgid ""
+#~ "Your browser does not support direct access to the clipboard. Please use "
+#~ "keyboard shortcuts or your browser&#8217;s edit menu instead."
+#~ msgstr ""
+#~ "お使いのブラウザーはクリップボードへの直接的なアクセスをサポートしていませ"
+#~ "ん。代わりにキーボードショートカットか、お使いのブラウザーの編集メニューを"
+#~ "お使いください。"
+
+#~ msgid "Read more..."
+#~ msgstr "続きを読む..."
+
+#~ msgid "Search or use up and down arrow keys to select an item."
+#~ msgstr "検索もしくは上下矢印キーを使って項目を選択してください。"
+
+#~ msgid "Close media panel"
+#~ msgstr "メディアパネルを閉じる"
+
+#~ msgid "Close uploader"
+#~ msgstr "アップローダーを閉じる"
+
+#~ msgid "Maximum upload file size: %s."
+#~ msgstr "最大アップロードサイズ: %s"
+
+#~ msgid "List View"
+#~ msgstr "リストビュー"
+
+#~ msgid "Grid View"
+#~ msgstr "グリッドビュー"
+
+#~ msgid "Edit previous media item"
+#~ msgstr "前のメディア項目を編集"
+
+#~ msgid "Edit next media item"
+#~ msgstr "次のメディア項目を編集"
+
+#~ msgid "File name:"
+#~ msgstr "ファイル名:"
+
+#~ msgid "File type:"
+#~ msgstr "ファイルタイプ:"
+
+#~ msgid "Uploaded on:"
+#~ msgstr "更新日:"
+
+#~ msgid "File size:"
+#~ msgstr "ファイルサイズ:"
+
+#~ msgid "Dimensions:"
+#~ msgstr "サイズ:"
+
+#~ msgid "Bitrate:"
+#~ msgstr "ビットレート:"
+
+#~ msgid "Uploaded By"
+#~ msgstr "アップロード:"
+
+#~ msgid "Uploaded To"
+#~ msgstr "アップロード先:"
+
+#~ msgid "View attachment page"
+#~ msgstr "添付ファイルのページを表示"
+
+#~ msgid "Edit more details"
+#~ msgstr "さらに詳細を編集"
+
+#~ msgid "Bitrate Mode"
+#~ msgstr "ビットレートモード"
+
+#~ msgid "All media types"
+#~ msgstr "すべてのメディアタイプ"
+
+#~ msgid "All dates"
+#~ msgstr "すべての日付"
+
+#~ msgid "Unattached"
+#~ msgstr "未添付"
+
+#~ msgid ""
+#~ "You are about to permanently delete these items.\n"
+#~ "  'Cancel' to stop, 'OK' to delete."
+#~ msgstr ""
+#~ "これらの項目を永久に削除しようとしています。\n"
+#~ "中止するには「キャンセル」を、削除するには「OK」をクリックしてください。"
+
+#~ msgid "Filter by date"
+#~ msgstr "日付で絞り込み"
+
+#~ msgid "Filter by type"
+#~ msgstr "タイプで絞り込み"
+
+#~ msgid "Search Media"
+#~ msgstr "メディアを検索"
+
+#~ msgid "Edit Metadata"
+#~ msgstr "メタデータを編集"
+
+#~ msgid "This site is no longer available."
+#~ msgstr "このサイトはもう利用できません。"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: The comment could not be saved. Please try again "
+#~ "later."
+#~ msgstr ""
+#~ "<strong>エラー</strong>: コメントを保存できませんでした。後ほどもう一度お"
+#~ "試しください。"
+
+#~ msgid ""
+#~ "While you can crop images to your liking after clicking <strong>Add new "
+#~ "image</strong>, your theme recommends a header size of <strong>%s &times; "
+#~ "%s</strong> pixels."
+#~ msgstr ""
+#~ "<strong>新規イメージ追加</strong>のクリック後に画像を好きなように切り抜き"
+#~ "できますが、お使いのテーマはヘッダーサイズとして<strong>%s &times; %s</"
+#~ "strong>ピクセルを推奨しています。"
+
+#~ msgid ""
+#~ "While you can crop images to your liking after clicking <strong>Add new "
+#~ "image</strong>, your theme recommends a header width of <strong>%s</"
+#~ "strong> pixels."
+#~ msgstr ""
+#~ "<strong>新規イメージ追加</strong>のクリック後に画像を好きなように切り抜き"
+#~ "できますが、お使いのテーマはヘッダーの幅として<strong>%s</strong>ピクセル"
+#~ "を推奨しています。 "
+
+#~ msgid ""
+#~ "While you can crop images to your liking after clicking <strong>Add new "
+#~ "image</strong>, your theme recommends a header height of <strong>%s</"
+#~ "strong> pixels."
+#~ msgstr ""
+#~ "<strong>新規イメージ追加</strong>のクリック後に画像を好きなように切り抜き"
+#~ "できますが、お使いのテーマはヘッダーの高さとして<strong>%s</strong>ピクセ"
+#~ "ルを推奨しています。 "
+
+#~ msgid "Press return or enter to expand"
+#~ msgstr "リターンかエンターを押すと広がります"
+
+#~ msgid "You are customizing %s"
+#~ msgstr "%s をカスタマイズ中です"
+
+#~ msgid ""
+#~ "Widgets are independent sections of content that can be placed into "
+#~ "widgetized areas provided by your theme (commonly called sidebars)."
+#~ msgstr ""
+#~ "ウィジェットはコンテンツから独立したセクションで、テーマ内のウィジェット化"
+#~ "されたエリア (一般的にはサイドバーと呼ばれる) に置くことができます。"
+
+#~ msgid ""
+#~ "(WordPress could not establish a secure connection to WordPress.org. "
+#~ "Please contact your server administrator.)"
+#~ msgstr ""
+#~ "(WordPress は WordPress.org との安全な接続を確立できませんでした。サーバー"
+#~ "管理者にご連絡ください)"
+
+#~ msgid "Shift-click to edit this widget."
+#~ msgstr "Shift + クリックでこのウィジェットを編集。"
+
+#~ msgctxt "HTML tag"
+#~ msgid "Address"
+#~ msgstr "Address"
+
+#~ msgid ""
+#~ "If you&#8217;re looking to paste rich content from Microsoft Word, try "
+#~ "turning this option off. The editor will clean up text pasted from Word "
+#~ "automatically."
+#~ msgstr ""
+#~ "Microsoft Word からリッチコンテンツを貼り付けたければ、この設定をオフにし"
+#~ "てみてください。エディターは自動的に Word から貼り付けられたテキストの修飾"
+#~ "を除去します。"
+
+#~ msgid "Keyboard Shortcuts"
+#~ msgstr "キーボードショートカット"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: Cookies are blocked due to unexpected output. For "
+#~ "help, please see <a href=\"%1$s\">this documentation</a> or try the <a "
+#~ "href=\"%2$s\">support forums</a>."
+#~ msgstr ""
+#~ "<strong>エラー</strong>: 予期しない出力により Cookies がブロックされまし"
+#~ "た。ヘルプが必要な場合は<a href=\"%1$s\">こちらのドキュメンテーション</a>"
+#~ "を読むか、<a href=\"%2$s\">サポートフォーラム</a>をご利用ください。"
+
+#~ msgid "http://codex.wordpress.org/Cookies"
+#~ msgstr "http://wpdocs.sourceforge.jp/Cookies"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: Cookies are blocked or not supported by your "
+#~ "browser. You must <a href=\"%s\">enable cookies</a> to use WordPress."
+#~ msgstr ""
+#~ "<strong>エラー</strong>: Cookies がブロックされているか、お使いのブラウ"
+#~ "ザーで未対応のようです。WordPress を使うには <a href=\"%s\">Cookie を有効"
+#~ "化</a>する必要があります。"
+
+#~ msgid "Add/remove code tag"
+#~ msgstr "コードタグを追加 / 削除"
+
+#~ msgid "Link CSS Class"
+#~ msgstr "リンク CSS クラス"
+
+#~ msgid "Show Video List"
+#~ msgstr "動画一覧を表示"
+
+#~ msgid "Display Settings"
+#~ msgstr "設定を表示"
+
+#~ msgid "Edit Original"
+#~ msgstr "オリジナルを編集"
+
+#~ msgctxt "table cell alignment attribute"
+#~ msgid "None"
+#~ msgstr "なし"
+
+#~ msgid "Font Family"
+#~ msgstr "フォントファミリー"
+
+#~ msgid "Font Sizes"
+#~ msgstr "フォントサイズ"
+
+#~ msgid "Split table cell"
+#~ msgstr "テーブルセルを分割"
+
+#~ msgid "Suggested image dimensions:"
+#~ msgstr "推奨画像サイズ:"
+
+#~ msgid "Custom Size"
+#~ msgstr "カスタムサイズ"
+
+#~ msgid "Advanced Options"
+#~ msgstr "上級者向け設定"
+
+#~ msgid "Image Title Attribute"
+#~ msgstr "画像タイトル属性"
+
+#~ msgid "Image CSS Class"
+#~ msgstr "画像 CSS クラス"
+
+#~ msgid "Artist"
+#~ msgstr "アーティスト"
+
+#~ msgid "Album"
+#~ msgstr "アルバム"
+
+#~ msgid "Genre"
+#~ msgstr "ジャンル"
+
+#~ msgid "Year"
+#~ msgstr "年"
+
+#~ msgctxt "video or audio"
+#~ msgid "Length"
+#~ msgstr "時間"
+
+#~ msgid "There has been an error cropping your image."
+#~ msgstr "画像を切り抜く際にエラーが発生しました。"
+
+#~ msgid "Edit Audio Playlist"
+#~ msgstr "音声プレイリストを編集"
+
+#~ msgid "&#8592; Cancel Audio Playlist"
+#~ msgstr "&#8592;  音声プレイリストをキャンセル"
+
+#~ msgid "Insert audio playlist"
+#~ msgstr "音声プレイリストを挿入"
+
+#~ msgid "Update audio playlist"
+#~ msgstr "音声プレイリストを更新"
+
+#~ msgid "Add to audio playlist"
+#~ msgstr "音声プレイリストを追加"
+
+#~ msgid "Add to Audio Playlist"
+#~ msgstr "音声プレイリストを追加"
+
+#~ msgctxt "Move widget"
+#~ msgid "Move"
+#~ msgstr "移動"
+
+#~ msgid "Set image"
+#~ msgstr "画像を設定"
+
+#~ msgctxt "custom header"
+#~ msgid "Hide image"
+#~ msgstr "画像を非表示"
+
+#~ msgctxt "header image"
+#~ msgid "Add new image"
+#~ msgstr "新規画像を追加"
+
+#~ msgctxt "Reorder widgets in Customizer"
+#~ msgid "Reorder"
+#~ msgstr "並べ替え"
+
+#~ msgctxt "Cancel reordering widgets in Customizer"
+#~ msgid "Done"
+#~ msgstr "完了"
+
+#~ msgid "Save and preview changes before publishing them."
+#~ msgstr "保存して、公開する前に変更をプレビューします。"
+
+#~ msgid "Trash widget by moving it to the inactive widgets sidebar."
+#~ msgstr ""
+#~ "ウィジェットを削除するには「使用停止中のウィジェット」に移動します。"
+
+#~ msgid "Search Widgets"
+#~ msgstr "ウィジェットを検索"
+
+#~ msgid "Search widgets&hellip;"
+#~ msgstr "ウィジェットを検索…"
+
+#~ msgctxt "TinyMCE"
+#~ msgid "Headings"
+#~ msgstr "見出し"
+
+#~ msgctxt "auto preload"
+#~ msgid "Auto"
+#~ msgstr "自動"
+
+#~ msgid "Move to another area&hellip;"
+#~ msgstr "他のエリアへ移動…"
+
+#~ msgid "Cropping&hellip;"
+#~ msgstr "切り抜いています…"
+
+#~ msgid "Tracks (subtitles, captions, descriptions, chapters, or metadata)"
+#~ msgstr "トラック (字幕、キャプション、説明、チャプター、またはメタ情報)"
+
+#~ msgctxt "TinyMCE"
+#~ msgid "Formats"
+#~ msgstr "スタイル"
+
+#~ msgctxt "table cell scope attribute"
+#~ msgid "Scope"
+#~ msgstr "範囲"
+
+#~ msgctxt "table column"
+#~ msgid "Column"
+#~ msgstr "列"
+
+#~ msgctxt "TinyMCE"
+#~ msgid "Blocks"
+#~ msgstr "ブロック"
+
+#~ msgctxt "HTML tag"
+#~ msgid "Div"
+#~ msgstr "Div"
+
+#~ msgctxt "HTML tag"
+#~ msgid "Pre"
+#~ msgstr "Pre"
+
+#~ msgctxt "HTML elements"
+#~ msgid "Inline"
+#~ msgstr "インライン"
+
+#~ msgctxt "editor button"
+#~ msgid "Code"
+#~ msgstr "コード"
+
+#~ msgid "Bulleted list"
+#~ msgstr "番号なしリスト"
+
+#~ msgctxt "list style"
+#~ msgid "Square"
+#~ msgstr "四角"
+
+#~ msgctxt "list style"
+#~ msgid "Default"
+#~ msgstr "デフォルト"
+
+#~ msgctxt "list style"
+#~ msgid "Circle"
+#~ msgstr "白丸"
+
+#~ msgctxt "list style"
+#~ msgid "Disc"
+#~ msgstr "黒丸"
+
+#~ msgctxt "list style"
+#~ msgid "Lower Greek"
+#~ msgstr "ギリシャ文字小文字"
+
+#~ msgctxt "list style"
+#~ msgid "Lower Alpha"
+#~ msgstr "ラテン文字小文字"
+
+#~ msgctxt "list style"
+#~ msgid "Upper Alpha"
+#~ msgstr "ラテン文字大文字"
+
+#~ msgctxt "list style"
+#~ msgid "Upper Roman"
+#~ msgstr "ローマ数字大文字"
+
+#~ msgctxt "list style"
+#~ msgid "Lower Roman"
+#~ msgstr "ローマ数字小文字"
+
+#~ msgctxt "Name of link anchor (TinyMCE)"
+#~ msgid "Name"
+#~ msgstr "名称"
+
+#~ msgctxt "Link anchor (TinyMCE)"
+#~ msgid "Anchor"
+#~ msgstr "アンカー"
+
+#~ msgctxt "Link anchors (TinyMCE)"
+#~ msgid "Anchors"
+#~ msgstr "アンカー"
+
+#~ msgctxt "editor button"
+#~ msgid "Right to left"
+#~ msgstr "右から左"
+
+#~ msgctxt "editor button"
+#~ msgid "Left to right"
+#~ msgstr "左から右"
+
+#~ msgctxt "find/replace"
+#~ msgid "Replace"
+#~ msgstr "置換"
+
+#~ msgctxt "find/replace"
+#~ msgid "Next"
+#~ msgstr "次へ"
+
+#~ msgctxt "find/replace"
+#~ msgid "Prev"
+#~ msgstr "前へ"
+
+#~ msgctxt "find/replace"
+#~ msgid "Whole words"
+#~ msgstr "全選択"
+
+#~ msgctxt "find/replace"
+#~ msgid "Replace with"
+#~ msgstr "これと置換"
+
+#~ msgctxt "find/replace"
+#~ msgid "Find"
+#~ msgstr "検索"
+
+#~ msgctxt "find/replace"
+#~ msgid "Replace all"
+#~ msgstr "すべて置換"
+
+#~ msgctxt "spellcheck"
+#~ msgid "Finish"
+#~ msgstr "終了"
+
+#~ msgctxt "spellcheck"
+#~ msgid "Ignore all"
+#~ msgstr "全て無視"
+
+#~ msgctxt "spellcheck"
+#~ msgid "Ignore"
+#~ msgstr "無視"
+
+#~ msgctxt "table columns"
+#~ msgid "Cols"
+#~ msgstr "列"
+
+#~ msgctxt "table cell"
+#~ msgid "Cell"
+#~ msgstr "セル"
+
+#~ msgctxt "table header"
+#~ msgid "Header"
+#~ msgstr "ヘッダー"
+
+#~ msgctxt "table body"
+#~ msgid "Body"
+#~ msgstr "ボディ"
+
+#~ msgctxt "table footer"
+#~ msgid "Footer"
+#~ msgstr "フッター"
+
+#~ msgctxt "TinyMCE"
+#~ msgid "Insert template"
+#~ msgstr "テンプレートを挿入"
+
+#~ msgctxt "TinyMCE"
+#~ msgid "Templates"
+#~ msgstr "テンプレート"
+
+#~ msgctxt "editor button"
+#~ msgid "Show blocks"
+#~ msgstr "ブロックを表示"
+
+#~ msgid "Words: %s"
+#~ msgstr "単語: %s"
+
+#~ msgctxt "TinyMCE menu"
+#~ msgid "Insert"
+#~ msgstr "挿入"
+
+#~ msgctxt "TinyMCE menu"
+#~ msgid "File"
+#~ msgstr "ファイル"
+
+#~ msgctxt "TinyMCE menu"
+#~ msgid "Edit"
+#~ msgstr "編集"
+
+#~ msgctxt "TinyMCE menu"
+#~ msgid "Tools"
+#~ msgstr "ツール"
+
+#~ msgctxt "TinyMCE menu"
+#~ msgid "View"
+#~ msgstr "表示"
+
+#~ msgctxt "TinyMCE menu"
+#~ msgid "Table"
+#~ msgstr "テーブル"
+
+#~ msgctxt "TinyMCE menu"
+#~ msgid "Format"
+#~ msgstr "表示形式"
+
+#~ msgid "Add alternate sources for maximum HTML5 playback:"
+#~ msgstr "フルスクリーン再生のための別ソースを追加"
+
+#~ msgid "Image Details"
+#~ msgstr "画像詳細"
+
+#~ msgid ""
+#~ "An unexpected error occurred. Something may be wrong with WordPress.org "
+#~ "or this server&#8217;s configuration. If you continue to have problems, "
+#~ "please try the <a href=\"https://wordpress.org/support/\">support forums</"
+#~ "a>."
+#~ msgstr ""
+#~ "予期しないエラーが発生しました。WordPress.org かこのサーバーの設定に何か問"
+#~ "題があるかもしれません。問題が続くようであれば、<a href=\"http://ja."
+#~ "forums.wordpress.org/\">サポートフォーラム</a>を参照してみてください。"
+
+#~ msgid "Back"
+#~ msgstr "戻る"
+
+#~ msgid "Show Tracklist"
+#~ msgstr "トラックリストを表示"
+
+#~ msgid "Trash"
+#~ msgstr "ゴミ箱"
+
+#~ msgid "Playlist Settings"
+#~ msgstr "プレイリスト設定"
+
+#~ msgctxt "Search widget"
+#~ msgid "Search"
+#~ msgstr "検索"
+
+#~ msgid "%s, %s"
+#~ msgstr "%s, %s"
+
+#~ msgid "%s, and %s"
+#~ msgstr "%s, %s"
+
+#~ msgid "%s and %s"
+#~ msgstr "%s, %s"
+
+#~ msgid "Show Artist Name in Tracklist"
+#~ msgstr "トラックリストにアーティスト名を表示"
+
+#~ msgid "Show Images"
+#~ msgstr "画像を表示"
+
+#~ msgid "Metadata"
+#~ msgstr "メタデータ"
+
+#~ msgid "Autoplay"
+#~ msgstr "自動再生"
+
+#~ msgid "Poster Image"
+#~ msgstr "ポスター画像"
+
+#~ msgid "There are no associated subtitles."
+#~ msgstr "関連付けられた字幕がありません。"
+
+#~ msgid "Create a new playlist"
+#~ msgstr "プレイリストを新規作成"
+
+#~ msgid "Create a new video playlist"
+#~ msgstr "動画プレイリストを新規作成"
+
+#~ msgid "Replace Image"
+#~ msgstr "画像を置き換える"
+
+#~ msgid "Cancel Edit"
+#~ msgstr "編集をキャンセル"
+
+#~ msgid "Choose Image"
+#~ msgstr "画像の選択"
+
+#~ msgid "Select and Crop"
+#~ msgstr "選択して切り抜く"
+
+#~ msgid "Skip Cropping"
+#~ msgstr "切り抜かない"
+
+#~ msgid "Crop Image"
+#~ msgstr "画像切り抜き"
+
+#~ msgid "Crop your image"
+#~ msgstr "画像を切り抜き"
+
+#~ msgid "Audio Details"
+#~ msgstr "音声ファイル詳細"
+
+#~ msgid "Replace Audio"
+#~ msgstr "音声ファイルを置き換える"
+
+#~ msgid "Add Audio Source"
+#~ msgstr "音声のソースを追加"
+
+#~ msgid "Video Details"
+#~ msgstr "動画詳細"
+
+#~ msgid "Replace Video"
+#~ msgstr "動画を置き換える"
+
+#~ msgid "Add Video Source"
+#~ msgstr "動画のソースを追加"
+
+#~ msgid "Select Poster Image"
+#~ msgstr "ポスター画像を選択"
+
+#~ msgid "Add Subtitles"
+#~ msgstr "字幕を追加"
+
+#~ msgid "Drag and drop to reorder tracks."
+#~ msgstr "トラックの順序を変更するにはドラッグ & ドロップしてください。"
+
+#~ msgid "Create Audio Playlist"
+#~ msgstr "音声プレイリストを作成"
+
+#~ msgid "Drag and drop to reorder videos."
+#~ msgstr "動画の順序を変更するにはドラッグ & ドロップしてください。"
+
+#~ msgid "Create Video Playlist"
+#~ msgstr "動画プレイリストを作成"
+
+#~ msgid "Edit Video Playlist"
+#~ msgstr "動画プレイリストを編集"
+
+#~ msgid "&#8592; Cancel Video Playlist"
+#~ msgstr "&#8592; 動画プレイリストをキャンセル"
+
+#~ msgid "Insert video playlist"
+#~ msgstr "動画プレイリストを挿入"
+
+#~ msgid "Update video playlist"
+#~ msgstr "動画プレイリストを更新"
+
+#~ msgid "Add to video playlist"
+#~ msgstr "動画プレイリストに追加"
+
+#~ msgid "Add to Video Playlist"
+#~ msgstr "動画プレイリストに追加"
+
+#~ msgid "Invalid menu ID."
+#~ msgstr "無効なメニュー ID です。"
+
+#~ msgid ""
+#~ "<h1>Can&#8217;t select database</h1>\n"
+#~ "<p>We were able to connect to the database server (which means your "
+#~ "username and password is okay) but not able to select the <code>%1$s</"
+#~ "code> database.</p>\n"
+#~ "<ul>\n"
+#~ "<li>Are you sure it exists?</li>\n"
+#~ "<li>Does the user <code>%2$s</code> have permission to use the <code>"
+#~ "%1$s</code> database?</li>\n"
+#~ "<li>On some systems the name of your database is prefixed with your "
+#~ "username, so it would be like <code>username_%1$s</code>. Could that be "
+#~ "the problem?</li>\n"
+#~ "</ul>\n"
+#~ "<p>If you don't know how to set up a database you should <strong>contact "
+#~ "your host</strong>. If all else fails you may find help at the <a href="
+#~ "\"https://wordpress.org/support/\">WordPress Support Forums</a>.</p>"
+#~ msgstr ""
+#~ "<h1>データベースを選択できません</h1>\n"
+#~ "<p>データベースサーバーには接続できました (ユーザー名とパスワードは間違っ"
+#~ "ていないようです) が、データベース <code>%1$s</code> を選択できませんでし"
+#~ "た。</p>\n"
+#~ "<ul>\n"
+#~ "<li>本当にこのデータベースが存在していますか ?</li>\n"
+#~ "<li>ユーザー <code>%2$s</code> にデータベース <code>%1$s</code> を利用する"
+#~ "権限がありますか ?</li>\n"
+#~ "<li>一部のシステムでは <code>username_%1$s</code> のように、データベース名"
+#~ "の前にユーザー名が接頭辞として追加されます。これが問題ではありませんか ?</"
+#~ "li>\n"
+#~ "</ul>\n"
+#~ "<p>もしデータベースの設置方法が分からない場合は<strong>ご利用中のホスティ"
+#~ "ングサービスに連絡</strong>してください。それでもうまく行かなければ、<a "
+#~ "href=\"http://ja.forums.wordpress.org/\">WordPress サポートフォーラム</a>"
+#~ "でヘルプを得られるかもしれません。</p>"
+
+#~ msgid "The query argument of %s must have a placeholder."
+#~ msgstr "%s のクエリ引数にはプレースホルダーが必要です。"
+
+#~ msgid ""
+#~ "\n"
+#~ "<h1>Error establishing a database connection</h1>\n"
+#~ "<p>This either means that the username and password information in your "
+#~ "<code>wp-config.php</code> file is incorrect or we can't contact the "
+#~ "database server at <code>%s</code>. This could mean your host's database "
+#~ "server is down.</p>\n"
+#~ "<ul>\n"
+#~ "\t<li>Are you sure you have the correct username and password?</li>\n"
+#~ "\t<li>Are you sure that you have typed the correct hostname?</li>\n"
+#~ "\t<li>Are you sure that the database server is running?</li>\n"
+#~ "</ul>\n"
+#~ "<p>If you're unsure what these terms mean you should probably contact "
+#~ "your host. If you still need help you can always visit the <a "
+#~ "href='https://wordpress.org/support/'>WordPress Support Forums</a>.</p>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<h1>データベース接続確立エラー</h1>\n"
+#~ "<p>これは <code>wp-config.php</code> ファイルのユーザー名とパスワード情報"
+#~ "が間違っているか <code>%s</code> のデータベースサーバーに接続できないかの"
+#~ "どちらかを意味します。ホストのデータベースサーバーがダウンしているかもしれ"
+#~ "ません。</p>\n"
+#~ "<ul>\n"
+#~ "        <li>ユーザー名とパスワードか正しいか確認してください。</li>\n"
+#~ "        <li>正しいホスト名を入力しているか確認してください。</li>\n"
+#~ "        <li>データベースサーバーが動作中か確認してください。</li>\n"
+#~ "</ul>\n"
+#~ "<p>こうした用語が何を意味するのか分からない場合は、ご利用中のホスティング"
+#~ "サービスに連絡してください。それでも助けが必要な場合はいつでも <a "
+#~ "href='http://ja.forums.wordpress.org/'>WordPress サポートフォーラム</a>を"
+#~ "使うことができます。</p>\n"
+
+#~ msgid ""
+#~ "Hint: The password should be at least seven characters long. To make it "
+#~ "stronger, use upper and lower case letters, numbers, and symbols like ! "
+#~ "\" ? $ % ^ &amp; )."
+#~ msgstr ""
+#~ "ヒント: パスワードは少なくとも7文字以上であるべきです。より強固にするため"
+#~ "には大文字と小文字、数字、 ! \" ? $ % ^ &amp; ) のような記号を使いましょ"
+#~ "う。"
+
+#~ msgid "Insert/edit video"
+#~ msgstr "動画を挿入/編集"
+
+#~ msgid "Could not find the specified string."
+#~ msgstr "指定された文字列が見つかりませんでした。"
+
+#~ msgid "Column group"
+#~ msgstr "列グループ"
+
+#~ msgid "Toolbar Toggle"
+#~ msgstr "ツールバー切り替え"
+
+#~ msgid "Insert image"
+#~ msgstr "画像を挿入"
+
+#~ msgid "Style"
+#~ msgstr "スタイル"
+
+#~ msgid "Alternative source"
+#~ msgstr "代替ソース"
+
+#~ msgid "Save failed."
+#~ msgstr "保存できませんでした。"
+
+#~ msgid "Media library (Alt + Shift + M)"
+#~ msgstr "メディアライブラリ (Alt + Shift + M)"
+
+#~ msgid "Keywords"
+#~ msgstr "キーワード"
+
+#~ msgid "https://wordpress.org/"
+#~ msgstr "https://ja.wordpress.org/"
+
+#~ msgid "https://wordpress.org/support/"
+#~ msgstr "http://ja.forums.wordpress.org/"
+
+#~ msgid "https://wordpress.org/support/forum/requests-and-feedback"
+#~ msgstr "http://ja.forums.wordpress.org/forum/2"
+
+#~ msgid "Randomize uploaded headers"
+#~ msgstr "アップロード済みヘッダーをランダム表示"
+
+#~ msgid "Randomize suggested headers"
+#~ msgstr "おすすめヘッダーをランダム表示"
+
+#~ msgid "Randomizing uploaded headers"
+#~ msgstr "アップロード済みヘッダーをランダム表示中"
+
+#~ msgid "Randomizing suggested headers"
+#~ msgstr "おすすめヘッダーをランダム表示中"
+
+#~ msgid "No image set"
+#~ msgstr "画像未設定"
+
+#~ msgid "Current header"
+#~ msgstr "現在のヘッダー"
+
+#~ msgctxt "custom headers"
+#~ msgid "Previously uploaded"
+#~ msgstr "アップロード済み"
+
+#~ msgctxt "custom headers"
+#~ msgid "Suggested"
+#~ msgstr "おすすめ"
+
+#~ msgid "Add a Widget"
+#~ msgstr "ウィジェットを追加"
+
+#~ msgid "Move down"
+#~ msgstr "下へ移動"
+
+#~ msgid "Move up"
+#~ msgstr "上へ移動"
+
+#~ msgid "Select an area to move this widget into:"
+#~ msgstr "ウィジェットを移動するエリアを選択:"
+
+#~ msgid "An error has occurred. Please reload the page and try again."
+#~ msgstr "エラーが発生しました。リロードしてもう一度お試しください。"
+
+#~ msgid "Align right"
+#~ msgstr "右寄せ"
+
+#~ msgid "Numbered list"
+#~ msgstr "番号付きリスト"
+
+#~ msgid "Increase indent"
+#~ msgstr "インデントを増やす"
+
+#~ msgid "Clear formatting"
+#~ msgstr "書式設定をクリア"
+
+#~ msgid "Align center"
+#~ msgstr "中央揃え"
+
+#~ msgid "Decrease indent"
+#~ msgstr "インデントを減らす"
+
+#~ msgid ""
+#~ "Paste is now in plain text mode. Contents will now be pasted as plain "
+#~ "text until you toggle this option off."
+#~ msgstr ""
+#~ "ペースト機能がプレーンテキストモードになりました。このオプションを無効化す"
+#~ "るまで、コンテンツはプレーンテキストとしてペーストされます。"
+
+#~ msgid "Justify"
+#~ msgstr "両端揃え"
+
+#~ msgid "Align left"
+#~ msgstr "左寄せ"
+
+#~ msgid "Visual aids"
+#~ msgstr "ビジュアルエイド"
+
+#~ msgid "Restore last draft"
+#~ msgstr "最後の下書きを復元"
+
+#~ msgid "Special character"
+#~ msgstr "特殊文字"
+
+#~ msgid "Source code"
+#~ msgstr "ソースコード"
+
+#~ msgid "Emoticons"
+#~ msgstr "顔文字"
+
+#~ msgid "Robots"
+#~ msgstr "ロボット"
+
+#~ msgid "Encoding"
+#~ msgstr "エンコーディング"
+
+#~ msgid "Horizontal line"
+#~ msgstr "横ライン"
+
+#~ msgid "Insert date/time"
+#~ msgstr "日時を挿入"
+
+#~ msgid "Paste your embed code below:"
+#~ msgstr "埋め込みコードを以下にペーストしてください。"
+
+#~ msgid "Insert video"
+#~ msgstr "動画を挿入"
+
+#~ msgid "Embed"
+#~ msgstr "埋め込む"
+
+#~ msgid "Nonbreaking space"
+#~ msgstr "改行なしスペース"
+
+#~ msgid "Page break"
+#~ msgstr "改ページ"
+
+#~ msgid "Paste as text"
+#~ msgstr "テキストとしてペースト"
+
+#~ msgid "Replace"
+#~ msgstr "置換"
+
+#~ msgid "Find and replace"
+#~ msgstr "検索置換"
+
+#~ msgid "Match case"
+#~ msgstr "大文字小文字を区別する"
+
+#~ msgid "Rows"
+#~ msgstr "行"
+
+#~ msgid "Cell padding"
+#~ msgstr "セルのパディング"
+
+#~ msgid "Cell spacing"
+#~ msgstr "セルのスペース"
+
+#~ msgid "Row type"
+#~ msgstr "行の種類"
+
+#~ msgid "Insert table"
+#~ msgstr "テーブルを挿入"
+
+#~ msgid "Header cell"
+#~ msgstr "ヘッダーセル"
+
+#~ msgid "Cell type"
+#~ msgstr "セルの種類"
+
+#~ msgid "Row group"
+#~ msgstr "行グループ"
+
+#~ msgid "Delete column"
+#~ msgstr "列を削除"
+
+#~ msgid "Background color"
+#~ msgstr "背景色"
+
+#~ msgid "Text color"
+#~ msgstr "テキスト色"
+
+#~ msgid "Show invisible characters"
+#~ msgstr "非表示文字を表示"
+
+#~ msgid ""
+#~ "Rich Text Area. Press ALT-F9 for menu. Press ALT-F10 for toolbar. Press "
+#~ "ALT-0 for help"
+#~ msgstr ""
+#~ "リッチテキストエリア。メニューを表示するには ALT-F9 を、ツールバーを表示す"
+#~ "るには ALT-F10 を、ヘルプを表示するには ALT-F0 を押してください。"
+
+#~ msgid "Insert Read More tag"
+#~ msgstr "「続きを読む」タグを挿入"
+
+#~ msgid "Distraction Free Writing"
+#~ msgstr "集中執筆モード"
+
+#~ msgctxt "admin color scheme"
+#~ msgid "Sunrise"
+#~ msgstr "サンライズ"
+
+#~ msgctxt "admin color scheme"
+#~ msgid "Ectoplasm"
+#~ msgstr "エクトプラズム"
+
+#~ msgctxt "admin color scheme"
+#~ msgid "Ocean"
+#~ msgstr "オーシャン"
+
+#~ msgctxt "admin color scheme"
+#~ msgid "Coffee"
+#~ msgstr "コーヒー"
+
+#~ msgid "Attempted to set image quality outside of the range [1,100]."
+#~ msgstr "許容範囲 [1,100] に含まれない値の画質を設定しようとしています。"
+
+#~ msgid ""
+#~ "A term with the name and slug provided already exists with this parent."
+#~ msgstr ""
+#~ "この項目の親項目の下に同じ名前とスラッグのものが既に存在しています。"
+
+#~ msgid "A term with the name and slug provided already exists."
+#~ msgstr "同じ名前とスラッグのものが既に存在しています。"
+
+#~ msgid "A list of your site&#8217;s Pages."
+#~ msgstr "固定ページ一覧"
+
+#~ msgid "A search form for your site."
+#~ msgstr "サイト内検索"
+
+#~ msgid "A monthly archive of your site&#8217;s Posts."
+#~ msgstr "投稿の月別アーカイブ"
+
+#~ msgid "Login, RSS, &amp; WordPress.org links."
+#~ msgstr "ログイン、RSS、WordPress.org へのリンク"
+
+#~ msgid "A calendar of your site&#8217;s Posts."
+#~ msgstr "投稿のカレンダー"
+
+#~ msgid "Arbitrary text or HTML."
+#~ msgstr "任意のテキストや HTML"
+
+#~ msgid "A list or dropdown of categories."
+#~ msgstr "カテゴリーのリストやドロップダウン"
+
+#~ msgid "Your site&#8217;s most recent Posts."
+#~ msgstr "直近の投稿"
+
+#~ msgid "Your site&#8217;s most recent comments."
+#~ msgstr "直近のコメント"
+
+#~ msgid "Entries from any RSS or Atom feed."
+#~ msgstr "RSS/Atom フィードのエントリー"
+
+#~ msgid "A cloud of your most used tags."
+#~ msgstr "タグクラウド"
+
+#~ msgid "Add a custom menu to your sidebar."
+#~ msgstr "カスタムメニューをサイドバーに追加します。"
+
+#~ msgctxt "Open Sans font: on or off"
+#~ msgid "on"
+#~ msgstr "on"
+
+#~ msgctxt "admin color scheme"
+#~ msgid "Default"
+#~ msgstr "デフォルト"
+
+#~ msgctxt "admin color scheme"
+#~ msgid "Light"
+#~ msgstr "ライト"
+
+#~ msgctxt "admin color scheme"
+#~ msgid "Midnight"
+#~ msgstr "ミッドナイト"
+
+#~ msgid "Use commas instead of %s to separate excluded terms."
+#~ msgstr "除外する項目の区切りとして %s の代わりにカンマを使う。"
+
+#~ msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+#~ msgid "no-subset"
+#~ msgstr "no-subset"
+
+#~ msgid "Menu"
+#~ msgstr "メニュー"
+
+#~ msgid "Translation Updates"
+#~ msgstr "翻訳の更新"
+
+#~ msgid "Sorry, that key has expired. Please try again."
+#~ msgstr "そのキーは期限が切れています。もう一度お試しください。"
+
+#~ msgid "The theme directory \"%s\" does not exist."
+#~ msgstr "テーマディレクトリ \"%s\" がありません。"
+
+#~ msgid ""
+#~ "In <code>%1$s</code>, use the <code>%2$s</code> method, not the <code>"
+#~ "%3$s</code> function. See %4$s."
+#~ msgstr ""
+#~ "<code>%1$s</code> では <code>%3$s</code> 関数ではなく <code>%2$s</code> メ"
+#~ "ソッドを利用してください。参照: %4$s"
+
+#~ msgid "ERROR: This is not a valid feed template."
+#~ msgstr "エラー: 有効なフィードテンプレートではありません。"
+
+#~ msgid ""
+#~ "This content is password protected. To view it please enter your password "
+#~ "below:"
+#~ msgstr ""
+#~ "このコンテンツはパスワードで保護されています。閲覧するには以下にパスワード"
+#~ "を入力してください。"
+
+#~ msgid "http://codex.wordpress.org/Function_Reference/is_main_query"
+#~ msgstr "http://wpdocs.sourceforge.jp/関数リファレンス/is_main_query"
+
+#~ msgctxt "Comma-separated list of search stopwords in your language"
+#~ msgid ""
+#~ "about,an,are,as,at,be,by,com,for,from,how,in,is,it,of,on,or,that,the,this,"
+#~ "to,was,what,when,where,who,will,with,www"
+#~ msgstr ""
+#~ "about,an,are,as,at,be,by,com,for,from,how,in,is,it,of,on,or,that,the,this,"
+#~ "to,was,what,when,where,who,will,with,www"
+
+#~ msgid "Failed to write request to temporary file."
+#~ msgstr "一時ファイルへの書き込みに失敗しました。"
+
+#~ msgid "The SSL certificate for the host could not be verified."
+#~ msgstr "このホストの SSL 証明書が認証されませんでした。"
+
+#~ msgid "Embed Media Player"
+#~ msgstr "メディアプレイヤーを埋め込む"
+
+#~ msgid "Length:"
+#~ msgstr "長さ:"
+
+#~ msgid "Embed or Link"
+#~ msgstr "埋め込みまたはリンク"
+
+#~ msgid "Link to Media File"
+#~ msgstr "メディアファイルへのリンク"
+
+#~ msgid "Link to Attachment Page"
+#~ msgstr "添付ファイルページへのリンク"
+
+#~ msgid "Download File"
+#~ msgstr "ファイルをダウンロード"
+
+#~ msgid "Download Video"
+#~ msgstr "動画をダウンロード"
+
+#~ msgid "Play/Pause"
+#~ msgstr "再生/一時停止"
+
+#~ msgid "Mute Toggle"
+#~ msgstr "ミュート切り替え"
+
+#~ msgid "Turn off Fullscreen"
+#~ msgstr "フルスクリーンをオフ"
+
+#~ msgid "Go Fullscreen"
+#~ msgstr "フルスクリーン"
+
+#~ msgid "Unmute"
+#~ msgstr "ミュート解除"
+
+#~ msgid "Captions/Subtitles"
+#~ msgstr "キャプション/字幕"
+
+#~ msgid "%s week"
+#~ msgid_plural "%s weeks"
+#~ msgstr[0] "%s週"
+
+#~ msgid "%s month"
+#~ msgid_plural "%s months"
+#~ msgstr[0] "%sか月"
+
+#~ msgid "%s year"
+#~ msgid_plural "%s years"
+#~ msgstr[0] "%s年"
+
+#~ msgid "#%d (no title)"
+#~ msgstr "#%d (タイトルなし)"
+
+#~ msgid "JavaScript must be enabled to use this feature."
+#~ msgstr "この機能を使うには JavaScript を有効にする必要があります。"
+
+#~ msgid "F j, Y"
+#~ msgstr "Y年n月j日"
+
+#~ msgid "g:i a"
+#~ msgstr "g:i A"
+
+#~ msgid "F j, Y g:i a"
+#~ msgstr "Y年n月j日 g:i A"
+
+#~ msgid "Login Address (URL)"
+#~ msgstr "ログインアドレス (URL)"
+
+#~ msgid "The URL to the admin area"
+#~ msgstr "管理画面の URL"
+
+#~ msgid ""
+#~ "The web browser on your device cannot be used to upload files. You may be "
+#~ "able to use the <a href=\"%s\">native app for your device</a> instead."
+#~ msgstr ""
+#~ "お使いのデバイス上のブラウザーからはファイルをアップロードできません。 <a "
+#~ "href=\"%s\">デバイスのネイティブアプリ</a>をご利用いただけるかもしれませ"
+#~ "ん。"
+
+#~ msgid "(more&hellip;)"
+#~ msgstr "(さらに&hellip;)"
+
+#~ msgid "Possible reason: your host may have disabled the mail() function."
+#~ msgstr ""
+#~ "ホスティングサービス上で mail() 関数が無効になっている可能性があります。"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: Couldn&#8217;t register you&hellip; please "
+#~ "contact the <a href=\"mailto:%s\">webmaster</a> !"
+#~ msgstr ""
+#~ "<strong>エラー</strong>: 登録できませんでした。<a href=\"mailto:%s\">管理"
+#~ "者にご連絡</a>ください。"
+
+#~ msgctxt "post revision title extra"
+#~ msgid "%1$s [Autosave]"
+#~ msgstr "%1$s [自動保存]"
+
+#~ msgctxt "post revision title extra"
+#~ msgid "%1$s [Current Revision]"
+#~ msgstr "%1$s [現在のリビジョン]"
+
+#~ msgid ""
+#~ "Your session has expired. You can log in again from this page or go to "
+#~ "the login page."
+#~ msgstr ""
+#~ "セッションの期限が切れました。このページから再度ログインするか、ログイン"
+#~ "ページへ移動してください。"
+
+#~ msgid "%1$s %2$s, %3$s @ %4$s : %5$s"
+#~ msgstr "%3$s年%1$s月%2$s日 @ %4$s:%5$s"
+
+#~ msgid ""
+#~ "Session expired. Please log in again. You will not move away from this "
+#~ "page."
+#~ msgstr ""
+#~ "セッションの期限が切れました。もう一度ログインしてください。このページから"
+#~ "は移動しません。"
+
+#~ msgid ""
+#~ "Have you entered your email correctly? You have entered %s, if it&#8217;s "
+#~ "incorrect, you will not receive your email."
+#~ msgstr ""
+#~ "メールアドレス (%s) をご確認ください。間違っているとメールを受け取れませ"
+#~ "ん。"
+
+#~ msgid ""
+#~ "The site you were looking for, <strong>%s</strong>, does not exist, but "
+#~ "you can create it now!"
+#~ msgstr ""
+#~ "お探しのサイト <strong>%s</strong> は存在しませんが、今すぐ作成できます。"
+
+#~ msgid "The site you were looking for, <strong>%s</strong>, does not exist."
+#~ msgstr "お探しのサイト <strong>%s</strong> は存在しません。"
+
+#~ msgid ""
+#~ "The login page will open in a new window. After logging in you can close "
+#~ "it and return to this page."
+#~ msgstr ""
+#~ "新しい画面でログインページを開きます。ログイン後、そちらを閉じてこのページ"
+#~ "に戻ってください。"
+
+#~ msgctxt "post revision title"
+#~ msgid "%1$s %2$s, %3$s ago (%4$s)"
+#~ msgstr "%1$s %2$s %3$s前 (%4$s)"
+
+#~ msgid "%s <span class=\"says\">says:</span>"
+#~ msgstr "%s <span class=\"says\">より:</span>"
+
+#~ msgctxt "1: date, 2: time"
+#~ msgid "%1$s at %2$s"
+#~ msgstr "%1$s %2$s"
+
+#~ msgctxt "placeholder"
+#~ msgid "Search &hellip;"
+#~ msgstr "検索 &hellip;"
+
+#~ msgctxt "label"
+#~ msgid "Search for:"
+#~ msgstr "検索:"
+
+#~ msgctxt "submit button"
+#~ msgid "Search"
+#~ msgstr "検索"
+
+#~ msgctxt "revision date format"
+#~ msgid "j F, Y @ G:i:s"
+#~ msgstr "Y年n月j日 @ G:i:s"
+
+#~ msgid "Session expired"
+#~ msgstr "セッションの有効期限が切れました"
+
+#~ msgid "No tags found."
+#~ msgstr "タグが見つかりませんでした。"
+
+#~ msgctxt "meta widget link text"
+#~ msgid "WordPress.org"
+#~ msgstr "WordPress.org"
+
+#~ msgid ""
+#~ "Do not deregister the %1$s script in the administration area. To target "
+#~ "the frontend theme, use the %2$s hook."
+#~ msgstr ""
+#~ "管理画面では %1$s スクリプトの読み込みをオフにしないでください。フロントエ"
+#~ "ンドテーマだけをターゲットにするには、%2$s フックを使いましょう。"
+
+#~ msgid "WordPress Address (URL)"
+#~ msgstr "WordPress アドレス (URL)"
+
+#~ msgid "Site Address (URL)"
+#~ msgstr "サイトアドレス (URL)"
+
+#~ msgid "Invalid user ID."
+#~ msgstr "無効なユーザー ID です。"
+
+#~ msgid "Random Order"
+#~ msgstr "ランダム"
+
+#~ msgid "Caption this image&hellip;"
+#~ msgstr "この画像のキャプション"
+
+#~ msgid "%d selected"
+#~ msgstr "%d点を選択済"
+
+#~ msgid "Insert from URL"
+#~ msgstr "URL から挿入"
+
+#~ msgid "Set Featured Image"
+#~ msgstr "アイキャッチ画像を設定"
+
+#~ msgctxt "Links widget"
+#~ msgid "Random"
+#~ msgstr "ランダム"
+
+#~ msgid "No items found."
+#~ msgstr "項目は見つかりませんでした。"
+
+#~ msgid "Add to Gallery"
+#~ msgstr "ギャラリーに追加"
+
+#~ msgid "Reverse order"
+#~ msgstr "順序を逆にする"
+
+#~ msgid "Set featured image"
+#~ msgstr "アイキャッチ画像を設定"
+
+#~ msgid "Deselect"
+#~ msgstr "選択を解除"
+
+#~ msgid "Sorry, that file cannot be edited."
+#~ msgstr "そのファイルは編集できません。"
+
+#~ msgid ""
+#~ "You are about to permanently delete this item.\n"
+#~ "  'Cancel' to stop, 'OK' to delete."
+#~ msgstr ""
+#~ "この項目を完全に削除しようとしています。\n"
+#~ "中止するには「キャンセル」を、削除するには「OK」をクリックしてください。"
+
+#~ msgid "Delete Permanently"
+#~ msgstr "完全に削除する"
+
+#~ msgid "Upload Limit Exceeded"
+#~ msgstr "アップロード上限超過"
+
+#~ msgid "Dismiss Errors"
+#~ msgstr "エラーを非表示にする"
+
+#~ msgid "Error"
+#~ msgstr "エラー"
+
+#~ msgid "No editor could be selected."
+#~ msgstr "エディターを選択できませんでした。"
+
+#~ msgid "Uploading"
+#~ msgstr "アップロード中"
+
+#~ msgid "Manage Images"
+#~ msgstr "画像の管理"
+
+#~ msgid "Image <span class=\"count\">(%s)</span>"
+#~ msgid_plural "Images <span class=\"count\">(%s)</span>"
+#~ msgstr[0] "画像 <span class=\"count\">(%s)</span>"
+
+#~ msgid "Manage Audio"
+#~ msgstr "音声の管理"
+
+#~ msgid "Audio <span class=\"count\">(%s)</span>"
+#~ msgid_plural "Audio <span class=\"count\">(%s)</span>"
+#~ msgstr[0] "音声 <span class=\"count\">(%s)</span>"
+
+#~ msgid "Video"
+#~ msgstr "動画"
+
+#~ msgid "Manage Video"
+#~ msgstr "動画の管理"
+
+#~ msgid "Video <span class=\"count\">(%s)</span>"
+#~ msgid_plural "Video <span class=\"count\">(%s)</span>"
+#~ msgstr[0] "動画 <span class=\"count\">(%s)</span>"
+
+#~ msgid "Insert into page"
+#~ msgstr "固定ページに挿入"
+
+#~ msgid "Uploaded to this page"
+#~ msgstr "この固定ページへのアップロード"
+
+#~ msgid "All media items"
+#~ msgstr "すべてのメディア"
+
+#~ msgid "Uploaded to this post"
+#~ msgstr "この投稿へのアップロード"
+
+#~ msgid "Audio"
+#~ msgstr "音声"
+
+#~ msgid "&#8592; Return to library"
+#~ msgstr "&#8592; ライブラリへ戻る"
+
+#~ msgid "Custom URL"
+#~ msgstr "カスタム URL"
+
+#~ msgid "Attachment Details"
+#~ msgstr "添付ファイルの詳細"
+
+#~ msgid "Alt Text"
+#~ msgstr "代替テキスト"
+
+#~ msgid "Columns"
+#~ msgstr "カラム"
+
+#~ msgid "Drag and drop to reorder images."
+#~ msgstr "画像を並べ替えるにはドラッグ & ドロップ操作をしてください。"
+
+#~ msgid "Large"
+#~ msgstr "大サイズ"
+
+#~ msgid "Attachment Display Settings"
+#~ msgstr "添付ファイルの表示設定"
+
+#~ msgid "Gallery Settings"
+#~ msgstr "ギャラリーの設定"
+
+#~ msgid "Upload Images"
+#~ msgstr "画像をアップロード"
+
+#~ msgid "&#8592; Cancel Gallery"
+#~ msgstr "&#8592; ギャラリーをキャンセル"
+
+#~ msgid "WordPress &rsaquo; Success"
+#~ msgstr "WordPress &rsaquo; 成功"
+
+#~ msgid "Drop files anywhere to upload"
+#~ msgstr "アップロードするファイルをドロップ"
+
+#~ msgid "Upload Files"
+#~ msgstr "ファイルをアップロード"
+
+#~ msgid "Insert gallery"
+#~ msgstr "ギャラリーを挿入"
+
+#~ msgid "Drop files to upload"
+#~ msgstr "ファイルをドロップしてアップロード"
+
+#~ msgid "Media Library"
+#~ msgstr "メディアライブラリ"
+
+#~ msgid "Create Gallery"
+#~ msgstr "ギャラリーを作成"
+
+#~ msgid ""
+#~ "To activate your user, please click the following link:\n"
+#~ "\n"
+#~ "%s\n"
+#~ "\n"
+#~ "After you activate, you will receive *another email* with your login."
+#~ msgstr ""
+#~ "ユーザーを有効化するには、以下のリンクをクリックしてください:\n"
+#~ "\n"
+#~ "%s\n"
+#~ "\n"
+#~ "有効化すると、ログイン情報を含むメールが別途届きます。"
+
+#~ msgid "Already Installed"
+#~ msgstr "すでにインストールされています"
+
+#~ msgid ""
+#~ "You appear to have already installed WordPress. To reinstall please clear "
+#~ "your old database tables first."
+#~ msgstr ""
+#~ "すでに WordPress をインストール済みのようです。再インストールするには、ま"
+#~ "ず以前のデータベーステーブルを削除してください。"
+
+#~ msgid "Taxonomies cannot exceed 32 characters in length"
+#~ msgstr "タクソノミーは32文字以上にはできません"
+
+#~ msgid ""
+#~ "New Site: %1$s\n"
+#~ "URL: %2$s\n"
+#~ "Remote IP: %3$s\n"
+#~ "\n"
+#~ "Disable these notifications: %4$s"
+#~ msgstr ""
+#~ "新サイト: %1$s\n"
+#~ "URL: %2$s\n"
+#~ "リモート IP: %3$s\n"
+#~ "\n"
+#~ "この通知をオフにする: %4$s"
+
+#~ msgid ""
+#~ "New User: %1$s\n"
+#~ "Remote IP: %2$s\n"
+#~ "\n"
+#~ "Disable these notifications: %3$s"
+#~ msgstr ""
+#~ "新ユーザー: %1$s\n"
+#~ "リモート IP: %2$s\n"
+#~ "\n"
+#~ "この通知をオフにする: %3$s"
+
+#~ msgid "Link To"
+#~ msgstr "リンク先"
+
+#~ msgid "Attachment Page"
+#~ msgstr "添付ファイルのページ"
+
+#~ msgid "Media File"
+#~ msgstr "メディアファイル"
+
+#~ msgid "Describe this video&hellip;"
+#~ msgstr "このビデオの説明を書く"
+
+#~ msgid "Describe this audio file&hellip;"
+#~ msgstr "この音声の説明を書く"
+
+#~ msgid "Describe this media file&hellip;"
+#~ msgstr "このメディアの説明を書く"
+
+#~ msgid "Update gallery"
+#~ msgstr "ギャラリーを更新"
+
+#~ msgid "The requested user does not exist."
+#~ msgstr "リクエストされたユーザーが見つかりません。"
+
+#~ msgid "Please enter a valid email address."
+#~ msgstr "有効なメールアドレスを入力してください。"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: This username is already registered. Please "
+#~ "choose another one."
+#~ msgstr ""
+#~ "<strong>エラー</strong>: このユーザー名はすでに登録されています。他のユー"
+#~ "ザー名を選んでください。"
+
+#~ msgid "File doesn&#8217;t exist?"
+#~ msgstr "ファイルが存在しないようです。"
+
+#~ msgid "File is not an image."
+#~ msgstr "画像ではないファイルです。"
+
+#~ msgid "Could not read image size."
+#~ msgstr "画像のサイズを読み取れませんでした。"
+
+#~ msgid "Image resize failed."
+#~ msgstr "画像をリサイズできませんでした。"
+
+#~ msgid "Image crop failed."
+#~ msgstr "画像を切り抜けませんでした。"
+
+#~ msgid "Image rotate failed."
+#~ msgstr "画像を回転できませんでした。"
+
+#~ msgid "Image flip failed."
+#~ msgstr "画像を反転できませんでした。"
+
+#~ msgid "Image Editor Save Failed"
+#~ msgstr "画像エディターで保存に失敗しました"
+
+#~ msgctxt "post type general name"
+#~ msgid "Media"
+#~ msgstr "メディア"
+
+#~ msgctxt "add new media"
+#~ msgid "Add New"
+#~ msgstr "メディアの追加"
+
+#~ msgid "View Attachment Page"
+#~ msgstr "添付ファイルのページを表示"
+
+#~ msgid "Whoops, the provided date is invalid."
+#~ msgstr "入力された日付は無効です。"
+
+#~ msgid "Insert Media"
+#~ msgstr "メディアを挿入"
+
+#~ msgid "Create a new gallery"
+#~ msgstr "ギャラリーを作成"
+
+#~ msgid "Insert into post"
+#~ msgstr "投稿に挿入"
+
+#~ msgid "Add to gallery"
+#~ msgstr "ギャラリーに追加"
+
+#~ msgid "Clear"
+#~ msgstr "クリア"
+
+#~ msgid "Select Color"
+#~ msgstr "色を選択"
+
+#~ msgid "Current Color"
+#~ msgstr "現在の色"
+
+#~ msgid "Could not insert term relationship into the database"
+#~ msgstr "キーワードの関係をデータベースに挿入できませんでした"
+
+#~ msgctxt "Display name based on first name and last name"
+#~ msgid "%1$s %2$s"
+#~ msgstr "%2$s%1$s"
+
+#~ msgid "Incorrect username or password."
+#~ msgstr "ユーザー名またはパスワードが正しくありません。"
+
+#~ msgid "XML-RPC services are disabled on this site."
+#~ msgstr "このサイト上では XML-RPC サービスが無効になっています。"
+
+#~ msgid "There is a revision of this post that is more recent."
+#~ msgstr "この投稿にはより最近のリビジョンがあります。"
+
+#~ msgid "%1$s %2$s %3$s Feed"
+#~ msgstr "%1$s %2$s %3$s フィード"
+
+#~ msgid "Display post date?"
+#~ msgstr "投稿日を表示しますか ?"
+
+#~ msgid "You are not allowed to create pages as this user."
+#~ msgstr "固定ページを作成する権限がありません。"
+
+#~ msgid "Invalid post ID"
+#~ msgstr "無効な投稿 ID"
+
+#~ msgid "Sorry, you cannot edit users."
+#~ msgstr "ユーザーを編集することはできません。"
+
+#~ msgid "Invalid user ID"
+#~ msgstr "無効なユーザー ID"
+
+#~ msgid "Sorry, you cannot list users."
+#~ msgstr "ユーザー一覧を表示できません。"
+
+#~ msgid "The role specified is not valid"
+#~ msgstr "指定の権限は無効です"
+
+#~ msgid "Sorry, you cannot edit your profile."
+#~ msgstr "プロフィールを編集できません。"
+
+#~ msgid "Sorry, the user cannot be updated."
+#~ msgstr "そのユーザーは更新できません。"
+
+#~ msgid "Sorry, you are not allowed to edit posts."
+#~ msgstr "投稿を編集する権限がありません。"
+
+#~ msgid "Sorry, revisions are disabled."
+#~ msgstr "リビジョンが無効化されています。"
+
+#~ msgid "Alternative Text"
+#~ msgstr "代替テキスト"
+
+#~ msgctxt "Uploader: Drop files here - or - Select Files"
+#~ msgid "or"
+#~ msgstr "または"
+
+#~ msgid "Select Files"
+#~ msgstr "ファイルを選択"
+
+#~ msgid "Distraction Free Writing mode"
+#~ msgstr "集中執筆モード"
+
+#~ msgid "Editor width in Distraction Free Writing mode:"
+#~ msgstr "集中執筆モードのエディター幅:"
+
+#~ msgid "Skip to toolbar"
+#~ msgstr "ツールバーへスキップ"
+
+#~ msgid "Top navigation toolbar."
+#~ msgstr "トップナビゲーションのツールバー。"
+
+#~ msgctxt "Name for the Text editor tab (formerly HTML)"
+#~ msgid "Text"
+#~ msgstr "テキスト"
+
+#~ msgid "Hex Value"
+#~ msgstr "16進値"
+
+#~ msgid "Header Text Color"
+#~ msgstr "ヘッダーテキスト色"
+
+#~ msgid "Colors"
+#~ msgstr "色"
+
+#~ msgid "Save &amp; Activate"
+#~ msgstr "保存して有効化"
+
+#~ msgid "Saved"
+#~ msgstr "保存しました"
+
+#~ msgid "Save &amp; Publish"
+#~ msgstr "保存して公開"
+
+#~ msgid "Select File"
+#~ msgstr "ファイルを選択"
+
+#~ msgid "Customize"
+#~ msgstr "カスタマイズ"
+
+#~ msgid "Insufficient arguments passed to this XML-RPC method."
+#~ msgstr "この XML-RPC メソッドへ不完全な変数が渡されました。"
+
+#~ msgid "Sorry, you cannot stick a private post."
+#~ msgstr "非公開設定の投稿を固定表示にすることはできません。"
+
+#~ msgid "No Image"
+#~ msgstr "画像なし"
+
+#~ msgid ""
+#~ "You can edit your menu content on the Menus screen in the Appearance "
+#~ "section."
+#~ msgstr "メニューの項目は「外観」の「メニュー」画面で編集できます。"
+
+#~ msgid ""
+#~ "Drop a file here or <a href=\"#\" class=\"upload\">select a file</a>."
+#~ msgstr ""
+#~ "ここにファイルをドロップするか<a href=\"#\" class=\"upload\">ファイルを選"
+#~ "択してください</a>。"
+
+#~ msgid "Header Image"
+#~ msgstr "ヘッダー画像"
+
+#~ msgid "Post Thumbnail"
+#~ msgstr "投稿サムネイル"
+
+#~ msgid "text direction"
+#~ msgstr "テキスト記述方向"
+
+#~ msgid "Toggle Editor Text Direction"
+#~ msgstr "テキスト記述方向の切替"
+
+#~ msgid "Site name must be at least 4 characters."
+#~ msgstr "サイト名は4文字以上必要です。"
+
+#~ msgid "Please enter a site name."
+#~ msgstr "サイト名を入力してください。"
+
+#~ msgid "That username is not allowed."
+#~ msgstr "そのユーザー名は利用できません。"
+
+#~ msgid "Please enter a username."
+#~ msgstr "ユーザー名を入力してください。"
+
+#~ msgid "Please enter a site title."
+#~ msgstr "サイトタイトルを入力してください。"
+
+#~ msgid "That name is not allowed."
+#~ msgstr "その名称は利用できません。"
+
+#~ msgid "Username must be at least 4 characters."
+#~ msgstr "ユーザー名は4文字以上必要です。"
+
+#~ msgid "A static page"
+#~ msgstr "固定ページ"
+
+#~ msgid "Display Header Text"
+#~ msgstr "ヘッダーテキストを表示する"
+
+#~ msgid "Background Color"
+#~ msgstr "背景色"
+
+#~ msgid "Background Image"
+#~ msgstr "背景画像"
+
+#~ msgid "Background Repeat"
+#~ msgstr "背景の繰り返し"
+
+#~ msgid "Background Position"
+#~ msgstr "背景の位置"
+
+#~ msgid "Background Attachment"
+#~ msgstr "背景スクロール"
+
+#~ msgid "Uploaded"
+#~ msgstr "アップロード済み"
+
+#~ msgid "Upload New"
+#~ msgstr "新規アップロード"
+
+#~ msgid "Remove Image"
+#~ msgstr "画像の削除"
+
+#~ msgid "Sorry, you are not allowed to edit this post type."
+#~ msgstr "この投稿タイプを編集する権限がありません。"
+
+#~ msgid "Scroll"
+#~ msgstr "スクロール"
+
+#~ msgid "Fixed"
+#~ msgstr "固定"
+
+#~ msgid "No Repeat"
+#~ msgstr "繰り返しなし"
+
+#~ msgid "Tile"
+#~ msgstr "タイル"
+
+#~ msgid "Tile Horizontally"
+#~ msgstr "水平方向に繰り返し"
+
+#~ msgid "Tile Vertically"
+#~ msgstr "垂直方向に繰り返し"
+
+#~ msgid "Front page"
+#~ msgstr "フロントページ"
+
+#~ msgid "Posts page"
+#~ msgstr "投稿ページ"
+
+#~ msgid "Upload"
+#~ msgstr "アップロード"
+
+#~ msgid "Remove"
+#~ msgstr "削除"
+
+#~ msgid "Allowed Files"
+#~ msgstr "アップロードできるファイル"
+
+#~ msgid "The term name cannot be empty."
+#~ msgstr "キーワード名を入力してください。"
+
+#~ msgid "You are not allowed to create terms in this taxonomy."
+#~ msgstr "このタクソノミーではキーワードを作成する権限がありません。"
+
+#~ msgid "This taxonomy is not hierarchical."
+#~ msgstr "このタクソノミーは階層化されていません。"
+
+#~ msgid "Parent term does not exist."
+#~ msgstr "親キーワードがありません。"
+
+#~ msgid "Sorry, your term could not be created. Something wrong happened."
+#~ msgstr "キーワードを作成できませんでした。何か問題が起こりました。"
+
+#~ msgid "You are not allowed to edit terms in this taxonomy."
+#~ msgstr "このタクソノミーではキーワードを編集する権限がありません。"
+
+#~ msgid "This taxonomy is not hierarchical so you can't set a parent."
+#~ msgstr "このタクソノミーは階層化されていないので、親は設定できません。"
+
+#~ msgid "Sorry, editing the term failed."
+#~ msgstr "キーワードの編集に失敗しました。"
+
+#~ msgid "You are not allowed to delete terms in this taxonomy."
+#~ msgstr "このタクソノミーではキーワードを削除する権限がありません。"
+
+#~ msgid "Sorry, deleting the term failed."
+#~ msgstr "キーワードの削除に失敗しました。"
+
+#~ msgid "You are not allowed to assign terms in this taxonomy."
+#~ msgstr "このタクソノミーではキーワードを割り当てる権限がありません。"
+
+#~ msgid "Select Link Category:"
+#~ msgstr "リンクカテゴリーの選択:"
+
+#~ msgid "Template"
+#~ msgstr "テンプレート"
+
+#~ msgid "Stylesheet"
+#~ msgstr "スタイルシート"
+
+#~ msgid "Link title"
+#~ msgstr "リンクタイトル"
+
+#~ msgid "Link rating"
+#~ msgstr "リンク評価"
+
+#~ msgid "Link ID"
+#~ msgstr "リンク ID"
+
+#~ msgid "Number of links to show:"
+#~ msgstr " 表示するリンクの数:"
+
+#~ msgid ""
+#~ "ERROR: The themes directory is either empty or doesn&#8217;t exist. "
+#~ "Please check your installation."
+#~ msgstr ""
+#~ "エラー: テーマディレクトリが空か、存在しません。インストールを確認してくだ"
+#~ "さい。"
+
+#~ msgid "Stylesheet is not readable."
+#~ msgstr "スタイルシートが読み取り可能ではありません。"
+
+#~ msgid "The \"%s\" theme is not a valid parent theme."
+#~ msgstr "\"%s\" テーマは有効な親テーマではありません。"
+
+#~ msgid "Navigation"
+#~ msgstr "ナビゲーション"
+
+#~ msgid ""
+#~ "Your theme supports %s menu. Select which menu you would like to use."
+#~ msgid_plural ""
+#~ "Your theme supports %s menus. Select which menu appears in each location."
+#~ msgstr[0] ""
+#~ "ご利用中のテーマは%s個のメニューに対応しています。各位置に表示するメニュー"
+#~ "を選んでください。"
+
+#~ msgid "Refresh"
+#~ msgstr "再読み込み"
+
+#~ msgid "Static Front Page"
+#~ msgstr "固定フロントページ"
+
+#~ msgid "Your theme supports a static front page."
+#~ msgstr "テーマは固定フロントページをサポートしています。"
+
+#~ msgid "Your latest posts"
+#~ msgstr "最新の投稿"
+
+#~ msgid "Front page displays"
+#~ msgstr "フロントページの表示"
+
+#~ msgid "Site Title & Tagline"
+#~ msgstr "サイトタイトルとキャッチフレーズ"
+
+#~ msgid "Tagline"
+#~ msgstr "キャッチフレーズ"
+
+#~ msgid "&mdash; Select &mdash;"
+#~ msgstr "&mdash; 選択 &mdash;"
+
+#~ msgctxt "word count: words or characters?"
+#~ msgid "words"
+#~ msgstr "characters"
+
+#~ msgid "The post type may not be changed."
+#~ msgstr "投稿タイプは変更できません。"
+
+#~ msgid "Image default size"
+#~ msgstr "画像サイズの初期設定"
+
+#~ msgid "Image default link type"
+#~ msgstr "画像リンクタイプの初期設定"
+
+#~ msgid "Image default align"
+#~ msgstr "画像配置の初期設定"
+
+#~ msgid "Sorry, you are not allowed to edit this post."
+#~ msgstr "この投稿を編集する権限がありません。"
+
+#~ msgctxt "tag delimiter"
+#~ msgid ","
+#~ msgstr ","
+
+#~ msgid "Edit Site"
+#~ msgstr "サイト編集"
+
+#~ msgid "Sorry, you are not allowed to edit posts in this post type"
+#~ msgstr "この投稿タイプの投稿を編集する権限がありません。"
+
+#~ msgid "Invalid author ID."
+#~ msgstr "無効な作成者 ID です。"
+
+#~ msgid "Sorry, you are not allowed to delete this post."
+#~ msgstr "この投稿を削除する権限がありません。"
+
+#~ msgid ""
+#~ "Ambiguous term name used in a hierarchical taxonomy. Please use term ID "
+#~ "instead."
+#~ msgstr ""
+#~ "階層化されているタクソノミーで不明瞭なキーワードが使われています。代わりに"
+#~ "キーワード ID を使ってください。"
+
+#~ msgid ""
+#~ "Sorry, you are not allowed to add a term to one of the given taxonomies."
+#~ msgstr ""
+#~ "指定したタクソノミーのひとつにキーワードを追加する権限がありません。"
+
+#~ msgid "The post cannot be deleted."
+#~ msgstr "投稿を削除できません。"
+
+#~ msgid "The post type specified is not valid"
+#~ msgstr "指定された投稿タイプは有効ではありません"
+
+#~ msgid "Invalid post type"
+#~ msgstr "無効な投稿タイプ"
+
+#~ msgid ""
+#~ "Sorry, you are not allowed to create password protected posts in this "
+#~ "post type"
+#~ msgstr "この投稿タイプでパスワード保護された投稿を作成する権限がありません"
+
+#~ msgid "You are not allowed to create posts as this user."
+#~ msgstr "このユーザーとしては投稿を作成する権限がありません"
+
+#~ msgid "Sorry, you are not allowed to create private posts in this post type"
+#~ msgstr "この投稿タイプで非公開の投稿を作成する権限がありません"
+
+#~ msgid "Sorry, you are not allowed to publish posts in this post type"
+#~ msgstr "この投稿タイプで投稿を公開する権限がありません"
+
+#~ msgid ""
+#~ "Sorry, you are not allowed to assign a term to one of the given "
+#~ "taxonomies."
+#~ msgstr ""
+#~ "指定のタクソノミーのひとつにキーワードを割り当てる権限がありません。"
+
+#~ msgid ""
+#~ "Sorry, one of the given taxonomies is not supported by the post type."
+#~ msgstr ""
+#~ "指定されたタクソノミーのうち、この投稿タイプに対応していないものがありま"
+#~ "す。"
+
+#~ msgid "Sorry, you are not allowed to stick this post."
+#~ msgstr "この投稿を固定表示にする権限がありません。"
+
+#~ msgctxt "opening curly double quote"
+#~ msgid "&#8220;"
+#~ msgstr "&#8220;"
+
+#~ msgctxt "closing curly double quote"
+#~ msgid "&#8221;"
+#~ msgstr "&#8221;"
+
+#~ msgctxt "apostrophe"
+#~ msgid "&#8217;"
+#~ msgstr "&#8217;"
+
+#~ msgctxt "prime"
+#~ msgid "&#8242;"
+#~ msgstr "&#8242;"
+
+#~ msgctxt "double prime"
+#~ msgid "&#8243;"
+#~ msgstr "&#8243;"
+
+#~ msgctxt "opening curly single quote"
+#~ msgid "&#8216;"
+#~ msgstr "&#8216;"
+
+#~ msgctxt "closing curly single quote"
+#~ msgid "&#8217;"
+#~ msgstr "&#8217;"
+
+#~ msgid "Allow search engines to index this site."
+#~ msgstr "検索エンジンによるサイトのインデックスを許可する。"
+
+#~ msgid ""
+#~ "There doesn't seem to be a <code>wp-config.php</code> file. I need this "
+#~ "before we can get started."
+#~ msgstr ""
+#~ "<code>wp-config.php</code> ファイルが見つかりません。開始する前にこのファ"
+#~ "イルが必要です。"
+
+#~ msgid ""
+#~ "Need more help? <a href='http://codex.wordpress.org/Editing_wp-config."
+#~ "php'>We got it</a>."
+#~ msgstr ""
+#~ "ヘルプが必要な場合は<a href='http://wpdocs.sourceforge.jp/Editing_wp-"
+#~ "config.php'>ドキュメンテーション</a>をご覧ください。"
+
+#~ msgid ""
+#~ "You can create a <code>wp-config.php</code> file through a web interface, "
+#~ "but this doesn't work for all server setups. The safest way is to "
+#~ "manually create the file."
+#~ msgstr ""
+#~ "ウェブインタフェース経由で <code>wp-config.php</code> を作成できますが、"
+#~ "サーバーによっては動作しないかもしれません。最も安全な方法は、手動でファイ"
+#~ "ルを作成することです。"
+
+#~ msgid "Create a Configuration File"
+#~ msgstr "設定ファイルを作成する"
+
+#~ msgid "http://codex.wordpress.org/"
+#~ msgstr "http://wpdocs.sourceforge.jp/"
+
+#~ msgid ""
+#~ "Your site at <a href=\"%1$s\">%2$s</a> is active. You may now log in to "
+#~ "your site using your chosen username of &#8220;%3$s&#8221;. Please check "
+#~ "your email inbox at %4$s for your password and login instructions. If you "
+#~ "do not receive an email, please check your junk or spam folder. If you "
+#~ "still do not receive an email within an hour, you can <a href=\"%5$s"
+#~ "\">reset your password</a>."
+#~ msgstr ""
+#~ "あなたのサイト <a href=\"%1$s\">%2$s</a> は有効化済みです。ユーザー名"
+#~ "「%3$s」を使ってログインできます。%4$s のメールをチェックして、パスワード"
+#~ "とログイン方法をお読みください。メールが見つからない場合は、スパムフォルダ"
+#~ "を確認してください。それでも1時間以内にメールが届かなければ、<a href="
+#~ "\"%5$s\">パスワードをリセット</a>できます。"
+
+#~ msgid ""
+#~ "<a href=\"http://%1$s\">http://%2$s</a> is your new site. <a href=\"%3$s"
+#~ "\">Log in</a> as &#8220;%4$s&#8221; using your existing password."
+#~ msgstr ""
+#~ "<a href=\"http://%1$s\">http://%2$s</a> はあなたの新しいサイトです。設定し"
+#~ "たパスワードを使って、「%4$s」として<a href=\"%3$s\">ログイン</a>してくだ"
+#~ "さい。"
+
+#~ msgid ""
+#~ "Your account has been activated. You may now <a href=\"%1$s\">log in</a> "
+#~ "to the site using your chosen username of &#8220;%2$s&#8221;. Please "
+#~ "check your email inbox at %3$s for your password and login instructions. "
+#~ "If you do not receive an email, please check your junk or spam folder. If "
+#~ "you still do not receive an email within an hour, you can <a href=\"%4$s"
+#~ "\">reset your password</a>."
+#~ msgstr ""
+#~ "アカウントが有効化されました。ユーザー名「%2$s」を使って<a href=\"%1$s\">"
+#~ "ログイン</a>できます。%3$s のメールをチェックして、パスワードとログイン方"
+#~ "法をお読みください。メールが見つからない場合は、スパムフォルダを確認してく"
+#~ "ださい。それでも1時間以内にメールが届かなければ、<a href=\"%4$s\">パスワー"
+#~ "ドをリセット</a>できます。"
+
+#~ msgid ""
+#~ "One or more database tables are unavailable. The database may need to be "
+#~ "<a href=\"%s\">repaired</a>."
+#~ msgstr ""
+#~ "使用できないテーブルがあります。データベースの<a href=\"%s\">修復</a>が必"
+#~ "要かもしれません。"
+
+#~ msgid "Mission complete. Message <strong>%s</strong> deleted."
+#~ msgstr ""
+#~ "操作を完了しました。メッセージ「<strong>%s</strong>」を削除しました。"
+
+#~ msgid "You are posting comments too quickly. Slow down."
+#~ msgstr ""
+#~ "コメントを急いで投稿し過ぎているようです。もう少しゆっくりお願いします。"
+
+#~ msgctxt "admin bar menu group label"
+#~ msgid "New"
+#~ msgstr "新規"
+
+#~ msgid "%s comment awaiting moderation"
+#~ msgid_plural "%s comments awaiting moderation"
+#~ msgstr[0] "%s件のコメントが承認待ちです。"
+
+#~ msgid "What do I do now?"
+#~ msgstr "次に何をすればいいでしょう ?"
+
+#~ msgid ""
+#~ "%s exceeds the maximum upload size for the multi-file uploader when used "
+#~ "in your browser."
+#~ msgstr ""
+#~ "%s は、ブラウザー上からマルチファイルアップローダーを使う際のアップロード"
+#~ "サイズ上限を超えています。"
+
+#~ msgid "Please try uploading this file with the %1$sbrowser uploader%2$s."
+#~ msgstr ""
+#~ "%1$sブラウザーアップローダー%2$sでこのファイルをアップロードしてみてくださ"
+#~ "い。"
+
+#~ msgid "&#8220;%s&#8221; has failed to upload."
+#~ msgstr "&#8220;%s&#8221; のアップロードに失敗しました。"
+
+#~ msgid "Blockquote (Alt + Shift + Q)"
+#~ msgstr "Blockquote (Alt + Shift + Q)"
+
+#~ msgctxt "links widget"
+#~ msgid "All Links"
+#~ msgstr "すべてのリンク"
+
+#~ msgctxt "en dash"
+#~ msgid "&#8211;"
+#~ msgstr "&#8211;"
+
+#~ msgctxt "em dash"
+#~ msgid "&#8212;"
+#~ msgstr "&#8212;"
+
+#~ msgid "The menu ID should not be empty."
+#~ msgstr "メニュー ID を入力してください。"
+
+#~ msgid "About WordPress"
+#~ msgstr "WordPress について"
+
+#~ msgid "%s exceeds the maximum upload size for this site."
+#~ msgstr "%s は、このサイトのアップロードサイズ上限を超えています。"
+
+#~ msgid ""
+#~ "Please see <a href=\"http://codex.wordpress.org/Debugging_in_WordPress"
+#~ "\">Debugging in WordPress</a> for more information."
+#~ msgstr ""
+#~ "詳細は <a href=\"http://wpdocs.sourceforge.jp/Debugging_in_WordPress"
+#~ "\">WordPress のデバッグ</a>をご覧ください。"
+
+#~ msgid "Feedback"
+#~ msgstr "フィードバック"
+
+#~ msgid ""
+#~ "Dear User,\n"
+#~ "\n"
+#~ "Your new SITE_NAME site has been successfully set up at:\n"
+#~ "BLOG_URL\n"
+#~ "\n"
+#~ "You can log in to the administrator account with the following "
+#~ "information:\n"
+#~ "Username: USERNAME\n"
+#~ "Password: PASSWORD\n"
+#~ "Log in here: BLOG_URLwp-login.php\n"
+#~ "\n"
+#~ "We hope you enjoy your new site. Thanks!\n"
+#~ "\n"
+#~ "--The Team @ SITE_NAME"
+#~ msgstr ""
+#~ "ユーザー様へ\n"
+#~ "\n"
+#~ "新しいサイト SITE_NAME の設置に成功しました:\n"
+#~ "BLOG_URL\n"
+#~ "\n"
+#~ "以下の情報を使って、管理者としてログインできます:\n"
+#~ "ユーザー名: USERNAME\n"
+#~ "パスワード: PASSWORD\n"
+#~ "ログイン URL: BLOG_URLwp-login.php\n"
+#~ "\n"
+#~ "新しいサイトをお楽しみください。どうもありがとうございます !\n"
+#~ "-- 運営チーム @ SITE_NAME"
+
+#~ msgid "<strong>ERROR</strong>: please type a comment."
+#~ msgstr "<strong>エラー</strong>: コメントを入力してください。"
+
+#~ msgid "<strong>ERROR</strong>: please enter a valid email address."
+#~ msgstr "<strong>エラー</strong>: 有効なメールアドレスを入力してください。"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: please fill the required fields (name, email)."
+#~ msgstr ""
+#~ "<strong>エラー</strong>: 必須項目 (名前、メールアドレス) を入力してくださ"
+#~ "い。"
+
+#~ msgid ""
+#~ "Could not load the preview image. Please reload the page and try again."
+#~ msgstr ""
+#~ "プレビュー画像を読み込むことができませんでした。ページを読み込み直してもう"
+#~ "一度お試しください。"
+
+#~ msgid "<strong>ERROR</strong>: Site URL already taken."
+#~ msgstr "<strong>エラー</strong>: そのサイト URL はすでに使われています。"
+
+#~ msgid "<strong>ERROR</strong>: problem creating site entry."
+#~ msgstr ""
+#~ "<strong>エラー</strong>: サイトエントリーの作成中に問題が発生しました。"
+
+#~ msgid "No"
+#~ msgstr "いいえ"
+
+#~ msgid "Email"
+#~ msgstr "メールアドレス"
+
+#~ msgid "Users"
+#~ msgstr "ユーザー"
+
+#~ msgid "Update"
+#~ msgstr "更新"
+
+#~ msgid "Sites"
+#~ msgstr "サイト"
+
+#~ msgid "E-mail"
+#~ msgstr "メール"
+
+#~ msgid "Name"
+#~ msgstr "名前"
+
+#~ msgid "Username"
+#~ msgstr "ユーザー名"
+
+#~ msgid "Dashboard"
+#~ msgstr "ダッシュボード"
+
+#~ msgid "Cheatin&#8217; uh?"
+#~ msgstr "間違えましたか ?"
+
+#~ msgid "Themes"
+#~ msgstr "テーマ"
+
+#~ msgid "Log In"
+#~ msgstr "ログイン"
+
+#~ msgid "Title"
+#~ msgstr "タイトル"
+
+#~ msgid "Public"
+#~ msgstr "公開"
+
+#~ msgid "Plugins"
+#~ msgstr "プラグイン"
+
+#~ msgid "Yes"
+#~ msgstr "はい"
+
+#~ msgid "My Sites"
+#~ msgstr "参加サイト"
+
+#~ msgid "Site Title"
+#~ msgstr "サイト名"
+
+#~ msgid "First Post"
+#~ msgstr "最初の投稿"
+
+#~ msgid "Password:"
+#~ msgstr "パスワード:"
+
+#~ msgid "Activate"
+#~ msgstr "有効化"
+
+#~ msgid "Documentation"
+#~ msgstr "ドキュメンテーション"
+
+#~ msgid "Support Forums"
+#~ msgstr "サポートフォーラム"
+
+#~ msgid "&hellip;"
+#~ msgstr "&hellip;"
+
+#~ msgid "Database Error"
+#~ msgstr "データベースエラー"
+
+#~ msgid "Error establishing a database connection"
+#~ msgstr "データベース接続確立エラー"
+
+#~ msgid "WordPress.org"
+#~ msgstr "WordPress.org"
+
+#~ msgid "Global Dashboard: %s"
+#~ msgstr "グローバルダッシュボード: %s"
+
+#~ msgid "Network Admin: %s"
+#~ msgstr "サイトネットワーク管理者: %s"
+
+#~ msgctxt "taxonomy general name"
+#~ msgid "Tags"
+#~ msgstr "タグ"
+
+#~ msgctxt "taxonomy singular name"
+#~ msgid "Tag"
+#~ msgstr "タグ"
+
+#~ msgid ""
+#~ "Scripts and styles should not be registered or enqueued until the %1$s, "
+#~ "%2$s, or %3$s hooks."
+#~ msgstr ""
+#~ "スクリプトおよびスタイルは %1$s、%2$s、%3$s フック以降のみに登録・キュー追"
+#~ "加できます。"
+
+#~ msgid "Allow link notifications from other blogs (pingbacks and trackbacks)"
+#~ msgstr "他のブログからの通知 (ピンバック・トラックバック) を受け付ける"
+
+#~ msgid "Use <code>WP_User->ID</code> instead."
+#~ msgstr "代わりに <code>WP_User->ID</code> を使ってください。"
+
+#~ msgid ""
+#~ "You have been added to this site. Please visit the <a href=\"%s"
+#~ "\">homepage</a> or <a href=\"%s\">log in</a> using your username and "
+#~ "password."
+#~ msgstr ""
+#~ "あなたをこのサイトに追加しました。<a href=\"%s\">ホームページ</a>に移動す"
+#~ "るか、ユーザー名とパスワードを使って<a href=\"%s\">ログイン</a>してくださ"
+#~ "い。"
+
+#~ msgid "Memory exceeded. Please try another smaller file."
+#~ msgstr ""
+#~ "メモリの許容量を超えました。別の小さいサイズのファイルでもう一度お試しくだ"
+#~ "さい。"
+
+#~ msgid "This is larger than the maximum size. Please try another."
+#~ msgstr ""
+#~ "ファイルサイズの上限を超えているようです。別のファイルをお試しください。"
+
+#~ msgid "This file is not an image. Please try another."
+#~ msgstr "このファイルは画像ではありません。別のファイルをお試しください。"
+
+#~ msgctxt "admin color scheme"
+#~ msgid "Blue"
+#~ msgstr "ブルー"
+
+#~ msgid ""
+#~ "The timezone you have entered is not valid. Please select a valid "
+#~ "timezone."
+#~ msgstr ""
+#~ "入力されたタイムゾーンは有効ではありません。有効なタイムゾーンを選択してく"
+#~ "ださい。"
+
+#~ msgctxt "add new on admin bar"
+#~ msgid "Post"
+#~ msgstr "投稿"
+
+#~ msgctxt "add new on admin bar"
+#~ msgid "Page"
+#~ msgstr "固定ページ"
+
+#~ msgctxt "add new from admin bar"
+#~ msgid "Media"
+#~ msgstr "メディア"
+
+#~ msgctxt "add new from admin bar"
+#~ msgid "Link"
+#~ msgstr "リンク"
+
+#~ msgctxt "add new from admin bar"
+#~ msgid "User"
+#~ msgstr "ユーザー"
+
+#~ msgid ""
+#~ "You should specify a nonce action to be verified by using the first "
+#~ "parameter."
+#~ msgstr ""
+#~ "最初のパラメーターを使って検証されるノンスアクションを明記する必要がありま"
+#~ "す。"
+
+#~ msgid "View Tag"
+#~ msgstr "タグを表示"
+
+#~ msgid "View Category"
+#~ msgstr "カテゴリーを表示"
+
+#~ msgid "Wider"
+#~ msgstr "幅を広げる"
+
+#~ msgid "Narrower"
+#~ msgstr "幅を狭める"
+
+#~ msgid "Default width"
+#~ msgstr "デフォルトの幅"
+
+#~ msgid "Word count: %s"
+#~ msgstr "文字数: %s"
+
+#~ msgid ""
+#~ "Your account is now activated. <a href=\"%1$s\">Log in</a> or go back to "
+#~ "the <a href=\"%2$s\">homepage</a>."
+#~ msgstr ""
+#~ "アカウントを有効化しました。<a href=\"%1$s\">ログイン</a>するか、 <a href="
+#~ "\"%2$s\">ホームページ</a>に戻ってください。"
+
+#~ msgid ""
+#~ "Your account is now activated. <a href=\"%1$s\">View your site</a> or <a "
+#~ "href=\"%2$s\">Log in</a>"
+#~ msgstr ""
+#~ "アカウントを有効化しました。<a href=\"%1$s\">サイトを表示する</a>か<a "
+#~ "href=\"%2$s\">ログイン</a>してください。"
+
+#~ msgid "Help (Alt + Shift + H)"
+#~ msgstr "ヘルプ (Alt + Shift + H)"
+
+#~ msgid "Howdy, %1$s"
+#~ msgstr "こんにちは、%1$s さん !"
+
+#~ msgid "Exit fullscreen"
+#~ msgstr "フルスクリーンモードを終了"
+
+#~ msgid "Just write."
+#~ msgstr "Just write."
+
+#~ msgid "Approve and Reply"
+#~ msgstr "承認と返信"
+
+#~ msgid "All Posts"
+#~ msgstr "投稿一覧"
+
+#~ msgid "All Pages"
+#~ msgstr "固定ページ一覧"
+
+#~ msgid "Updated."
+#~ msgstr "更新しました。"
+
+#~ msgid "fullscreen"
+#~ msgstr "フルスクリーン"
+
+#~ msgid "Bold (Ctrl + B)"
+#~ msgstr "太字 (Ctrl + B)"
+
+#~ msgid "Italic (Ctrl + I)"
+#~ msgstr "斜体 (Ctrl + I)"
+
+#~ msgid "Ordered list (Alt + Shift + O)"
+#~ msgstr "番号付きリスト (Alt + Shift + O)"
+
+#~ msgid "Unordered list (Alt + Shift + U)"
+#~ msgstr "番号なしリスト (Alt + Shift + U)"
+
+#~ msgid "Insert/edit link (Alt + Shift + A)"
+#~ msgstr "リンクの挿入／編集 (Alt + Shift + A)"
+
+#~ msgid "Unlink (Alt + Shift + S)"
+#~ msgstr "リンクを外す (Alt + Shift + S)"
+
+#~ msgid "Pingback:"
+#~ msgstr "ピンバック:"
+
+#~ msgid "Poster"
+#~ msgstr "ポスター"
+
+#~ msgid "Preload"
+#~ msgstr "先読み"
+
+#~ msgid ""
+#~ "Destination directory for file streaming does not exist or is not "
+#~ "writable."
+#~ msgstr ""
+#~ "ファイルストリーミングの送り先となるディレクトリが存在しないか、書き込み不"
+#~ "可になっています。"
+
+#~ msgid ""
+#~ "There are no HTTP transports available which can complete the requested "
+#~ "request."
+#~ msgstr "要求されたリクエストを完了できる HTTP トランスポートがありません。"
+
+#~ msgctxt "post format"
+#~ msgid "Format"
+#~ msgstr "フォーマット"
+
+#~ msgid "Enter the destination URL"
+#~ msgstr "リンク先 URL を入力してください"
+
+#~ msgid "Or link to existing content"
+#~ msgstr "または既存のコンテンツにリンク"
+
+#~ msgid ""
+#~ "Conditional query tags do not work before the query is run. Before then, "
+#~ "they always return false."
+#~ msgstr ""
+#~ "条件付きクエリータグはクエリーが走る前には動作しません。その場合、常に "
+#~ "false を返します。"
+
+#~ msgid "The user is already active."
+#~ msgstr "このユーザーはすでに認証済みです。"
+
+#~ msgid "%1$s was called <strong>incorrectly</strong>. %2$s %3$s"
+#~ msgstr "%1$s が<strong>誤って</strong>呼び出されました。%2$s %3$s"
+
+#~ msgid "(This message was added in version %s.)"
+#~ msgstr "(このメッセージはバージョン %s で追加されました)"
+
+#~ msgid "Sorry, you cannot publish this post."
+#~ msgstr "この投稿を公開することはできません。"
+
+#~ msgid "Permalink: %s"
+#~ msgstr "パーマリンク: %s"
+
+#~ msgctxt "Post format"
+#~ msgid "Standard"
+#~ msgstr "標準"
+
+#~ msgid "Post types cannot exceed 20 characters in length"
+#~ msgstr "投稿タイプ名は20文字以内にしてください"
+
+#~ msgid "Your address will be %s."
+#~ msgstr "あなたのアドレスは %s になります。"
+
+#~ msgid "domain"
+#~ msgstr "domain"
+
+#~ msgctxt "admin bar menu group label"
+#~ msgid "Add New"
+#~ msgstr "新規追加"
+
+#~ msgctxt "Post format"
+#~ msgid "Audio"
+#~ msgstr "音声"
+
+#~ msgid "Invalid post format"
+#~ msgstr "無効な投稿フォーマットです"
+
+#~ msgid "Whois  : http://whois.arin.net/rest/ip/%s"
+#~ msgstr "Whois : http://whois.arin.net/rest/ip/%s"
+
+#~ msgid "Open link in a new window/tab"
+#~ msgstr "リンクを新ウィンドウまたはタブで開く"
+
+#~ msgid "No search term specified. Showing recent items."
+#~ msgstr "検索キーワードが指定されていません。最近の項目を表示しています。"
+
+#~ msgid ""
+#~ "Only a static class method or function can be used in an uninstall hook."
+#~ msgstr ""
+#~ "uninstall フックでは静的なクラスメソッドまたは関数のみが使用できます。"
+
+#~ msgid ""
+#~ "Passing an integer number of posts is deprecated. Pass an array of "
+#~ "arguments instead."
+#~ msgstr ""
+#~ "投稿の整数値を渡す方法は非推奨になっています。代わりに引数の配列を渡してく"
+#~ "ださい。"
+
+#~ msgctxt "Post format"
+#~ msgid "Aside"
+#~ msgstr "アサイド"
+
+#~ msgctxt "Post format"
+#~ msgid "Chat"
+#~ msgstr "チャット"
+
+#~ msgctxt "Post format"
+#~ msgid "Gallery"
+#~ msgstr "ギャラリー"
+
+#~ msgctxt "Post format"
+#~ msgid "Link"
+#~ msgstr "リンク"
+
+#~ msgctxt "Post format"
+#~ msgid "Image"
+#~ msgstr "画像"
+
+#~ msgctxt "Post format"
+#~ msgid "Quote"
+#~ msgstr "引用"
+
+#~ msgctxt "Post format"
+#~ msgid "Status"
+#~ msgstr "ステータス"
+
+#~ msgctxt "Post format"
+#~ msgid "Video"
+#~ msgstr "動画"
+
+#~ msgid "No pages found in Trash."
+#~ msgstr "ゴミ箱内にページが見つかりませんでした。"
+
+#~ msgid "No pages found."
+#~ msgstr "ページが見つかりませんでした。"
+
+#~ msgid "No posts found in Trash."
+#~ msgstr "ゴミ箱内に投稿が見つかりませんでした。"
+
+#~ msgid "Shortlink"
+#~ msgstr "短縮リンク"
+
+#~ msgid "Invalid attachment ID."
+#~ msgstr "無効な添付ファイル ID です。"
+
+#~ msgid "This file no longer needs to be included."
+#~ msgstr "このファイルは含める必要がなくなりました。"
+
+#~ msgid ""
+#~ "Please enter your username or email address. You will receive a link to "
+#~ "create a new password via email."
+#~ msgstr ""
+#~ "ユーザー名またはメールアドレスを入力してください。新しいパスワードを作成す"
+#~ "るためのリンクをメールでお送りします。"
+
+#~ msgid "Display as dropdown"
+#~ msgstr "ドロップダウン表示"
+
+#~ msgid "Large size image height"
+#~ msgstr "大サイズ画像の高さ"
+
+#~ msgid "Medium size image width"
+#~ msgstr "中サイズ画像の幅"
+
+#~ msgid "Medium size image height"
+#~ msgstr "中サイズ画像の高さ"
+
+#~ msgid "Large size image width"
+#~ msgstr "大サイズ画像の幅"
+
+#~ msgid "Crop thumbnail to exact dimensions"
+#~ msgstr "指定したサイズにサムネイルをトリミングする"
+
+#~ msgid "Thumbnail Height"
+#~ msgstr "サムネイルの高さ"
+
+#~ msgid "Thumbnail Width"
+#~ msgstr "サムネイルの幅"
+
+#~ msgid "No matches found."
+#~ msgstr "一致するものが見つかりませんでした。"
+
+#~ msgid "New password"
+#~ msgstr "新規パスワード"
+
+#~ msgid "Confirm new password"
+#~ msgstr "新しいパスワードの確認"
+
+#~ msgid "To reset your password, visit the following address:"
+#~ msgstr "パスワードをリセットするには、以下へアクセスしてください。"
+
+#~ msgid "Reset Password"
+#~ msgstr "パスワードをリセット"
+
+#~ msgid "The passwords do not match."
+#~ msgstr "パスワードが一致しません。"
+
+#~ msgid "Password Reset"
+#~ msgstr "パスワードのリセット"
+
+#~ msgid "Your password has been reset."
+#~ msgstr "パスワードをリセットしました。"
+
+#~ msgid ""
+#~ "Someone requested that the password be reset for the following account:"
+#~ msgstr "だれかが次のアカウントのパスワードリセットをリクエストしました:"
+
+#~ msgid ""
+#~ "If this was a mistake, just ignore this email and nothing will happen."
+#~ msgstr ""
+#~ "もしこれが間違いだった場合は、このメールを無視すれば何も起こりません。"
+
+#~ msgid "Enter your new password below."
+#~ msgstr "新しいパスワードを以下に入力してください。"
+
+#~ msgid "Invalid post"
+#~ msgstr "無効な投稿"
+
+#~ msgid "Edit My Profile"
+#~ msgstr "プロフィールを編集"
+
+#~ msgid "My Account"
+#~ msgstr "アカウント"
+
+#~ msgid "Manage Comments"
+#~ msgstr "コメント管理"
+
+#~ msgid "Only lowercase letters (a-z) and numbers are allowed."
+#~ msgstr "a-z の半角英数字の小文字と数字のみが使えます。"
+
+#~ msgid ""
+#~ "\"caller_get_posts\" is deprecated. Use \"ignore_sticky_posts\" instead."
+#~ msgstr ""
+#~ "\"caller_get_posts\" は非推奨です。代わりに \"ignore_sticky_posts\" をお使"
+#~ "いください。"
+
+#~ msgid "New Link Category Name"
+#~ msgstr "新規リンクカテゴリー名"
+
+#~ msgid "Add New Link Category"
+#~ msgstr "新規リンクカテゴリーを追加"
+
+#~ msgid "Update Link Category"
+#~ msgstr "リンクカテゴリーを更新"
+
+#~ msgid "All Link Categories"
+#~ msgstr "リンクカテゴリー一覧"
+
+#~ msgid "Search Link Categories"
+#~ msgstr "リンクカテゴリーを検索"
+
+#~ msgid "Link Category"
+#~ msgstr "リンクカテゴリー"
+
+#~ msgid "Network Admin"
+#~ msgstr "サイトネットワーク管理者"
+
+#~ msgid ""
+#~ "Read the <a target=\"_blank\" href=\"http://codex.wordpress.org/"
+#~ "Debugging_a_WordPress_Network\">bug report</a> page. Some of the "
+#~ "guidelines there may help you figure out what went wrong."
+#~ msgstr ""
+#~ "<a target=”_blank\" href=\"http://wpdocs.sourceforge.jp/"
+#~ "Debugging_a_WordPress_Network\">バグレポート</a>のページをご覧ください。ガ"
+#~ "イドラインに従えば、問題点の解決に役に立つかもしれません。"
+
+#~ msgid "[%1$s] Activate %2$s"
+#~ msgstr "[%1$s] %2$s を有効化"
+
+#~ msgid ""
+#~ "Your server is running PHP version %1$s but WordPress %2$s requires at "
+#~ "least %3$s."
+#~ msgstr ""
+#~ "サーバーの PHP バージョンは %1$s ですが WordPress %2$s は %3$s 以上のみで"
+#~ "ご利用になれます。"
+
+#~ msgid "A new trackback on the post \"%s\" is waiting for your approval"
+#~ msgstr "投稿 \"%s\" への新しいトラックバックが承認待ちです。"
+
+#~ msgid ""
+#~ "If you are the owner of this network please check that MySQL is running "
+#~ "properly and all tables are error free."
+#~ msgstr ""
+#~ "あなたがこのネットワークの所有者なら、MySQL が適切に動いていることと、すべ"
+#~ "てのテーブルにエラーがないことを確認してください。"
+
+#~ msgid ""
+#~ "If your site does not display, please contact the owner of this network."
+#~ msgstr ""
+#~ "サイトが表示されない場合は、このネットワークの所有者にご連絡ください。"
+
+#~ msgid "One Response to %2$s"
+#~ msgid_plural "%1$s Responses to %2$s"
+#~ msgstr[0] "%2$s への%1$s件のフィードバック"
+
+#~ msgctxt "Multisite active signup type"
+#~ msgid "user"
+#~ msgstr "ユーザー"
+
+#~ msgctxt "Multisite active signup type"
+#~ msgid "blog"
+#~ msgstr "ブログ"
+
+#~ msgctxt "Multisite active signup type"
+#~ msgid "none"
+#~ msgstr "なし"
+
+#~ msgctxt "Multisite active signup type"
+#~ msgid "all"
+#~ msgstr "すべて"
+
+#~ msgid "Custom Menu"
+#~ msgstr "カスタムメニュー"
+
+#~ msgid "New pingback on your post \"%s\""
+#~ msgstr "投稿 \"%s\" に新しいピンバックがありました"
+
+#~ msgid "A new pingback on the post \"%s\" is waiting for your approval"
+#~ msgstr "投稿 \"%s\" への新しいピンバックが承認待ちです。"
+
+#~ msgid "A new comment on the post \"%s\" is waiting for your approval"
+#~ msgstr "投稿 \"%s\" への新しいコメントが承認待ちです。"
+
+#~ msgid "New trackback on your post \"%s\""
+#~ msgstr "投稿 \"%s\" に新しいトラックバックがありました"
+
+#~ msgid "New comment on your post \"%s\""
+#~ msgstr "投稿 \"%s\" に新しいコメントがありました"
+
+#~ msgid "XFN"
+#~ msgstr "XFN"
+
+#~ msgid "XHTML Friends Network"
+#~ msgstr "XHTML Friends Network"
+
+#~ msgid ""
+#~ "Valid <abbr title=\"eXtensible HyperText Markup Language\">XHTML</abbr>"
+#~ msgstr ""
+#~ "<abbr title=\"eXtensible HyperText Markup Language\">XHTML</abbr> 準拠"
+
+#~ msgid "%1$s and %2$s."
+#~ msgstr "%1$s & %2$s"
+
+#~ msgid "F, Y"
+#~ msgstr "Y年n月"
+
+#~ msgid ""
+#~ "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives."
+#~ msgstr "<a href=\"%1$s/\">%2$s</a> ブログのアーカイブを表示しています。"
+
+#~ msgid ""
+#~ "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives "
+#~ "for %3$s."
+#~ msgstr "<a href=\"%1$s/\">%2$s</a> の %3$s のアーカイブを表示しています。"
+
+#~ msgid "Comments are closed."
+#~ msgstr "コメントは停止中です。"
+
+#~ msgid ""
+#~ "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives "
+#~ "for the year %3$s."
+#~ msgstr ""
+#~ "<a href=\"%1$s\">%2$s</a> ブログの%3$s年のアーカイブを表示しています。"
+
+#~ msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+#~ msgstr "<a href=\"%1$s\">%2$s</a> としてログイン中。"
+
+#~ msgid ""
+#~ "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out "
+#~ "of this account\">Log out &raquo;</a>"
+#~ msgstr ""
+#~ "<a href=\"%1$s\">%2$s</a> としてログイン中。<a href=\"%3$s\" title=\"この"
+#~ "アカウントからログアウトする\">ログアウト &raquo;</a>"
+
+#~ msgid "Submit Comment"
+#~ msgstr "コメントを送信"
+
+#~ msgid "%1$s is proudly powered by %2$s"
+#~ msgstr "%1$s is proudly powered by %2$s"
+
+#~ msgid "<abbr title=\"Universal Resource Locator\">URL</abbr>"
+#~ msgstr "<abbr title=\"Universal Resource Locator\">URL</abbr>"
+
+#~ msgid "Your Comment"
+#~ msgstr "コメント"
+
+#~ msgid "Say It!"
+#~ msgstr "送信 !"
+
+#~ msgid "Close this window."
+#~ msgstr "ウィンドウを閉じる。"
+
+#~ msgid "Sorry, no posts matched your criteria."
+#~ msgstr "条件に合う投稿はありませんでした。"
+
+#~ msgid ""
+#~ "Powered by <a href=\"%s\" title=\"Powered by WordPress, state-of-the-art "
+#~ "semantic personal publishing platform\"><strong>WordPress</strong></a>"
+#~ msgstr ""
+#~ "Powered by <a href=\"%s\" title=\"Powered by WordPress, state-of-the-art "
+#~ "semantic personal publishing platform\"><strong>WordPress</strong></a>"
+
+#~ msgid "Log out of this account"
+#~ msgstr "このアカウントをログアウトする"
+
+#~ msgid "Log out &raquo;"
+#~ msgstr "ログアウト &raquo;"
+
+#~ msgid "Mail (will not be published)"
+#~ msgstr "メールアドレス (非公開)"
+
+#~ msgid "<strong>XHTML:</strong> You can use these tags: <code>%s</code>"
+#~ msgstr "<strong>XHTML:</strong> 次のタグを使用できます: <code>%s</code>"
+
+#~ msgid ""
+#~ "You have searched the <a href=\"%1$s/\">%2$s</a> blog archives for "
+#~ "<strong>&#8216;%3$s&#8217;</strong>. If you are unable to find anything "
+#~ "in these search results, you can try one of these links."
+#~ msgstr ""
+#~ "<a href=\"%1$s/\">%2$s</a> のアーカイブ内で<strong>&#8216;%3$s&#8217;</"
+#~ "strong>を探しました。お探しのものが見つからない場合は他のリンクを試してみ"
+#~ "てください。"
+
+#~ msgid "l, F jS, Y"
+#~ msgstr "Y年n月j日 l"
+
+#~ msgid ""
+#~ "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives "
+#~ "for the day %3$s."
+#~ msgstr ""
+#~ "<a href=\"%1$s\">%2$s</a> ブログの %3$s のアーカイブを表示しています。"
+
+#~ msgid "You are currently browsing the archives for the %s category."
+#~ msgstr "カテゴリー %s のアーカイブを表示しています。"
+
+#~ msgid "%d queries. %s seconds."
+#~ msgstr "%d個のクエリーと%s秒を要しました。"
+
+#~ msgid "Comments (RSS)"
+#~ msgstr "コメント (RSS)"
+
+#~ msgid "Entries (RSS)"
+#~ msgstr "投稿 (RSS)"
+
+#~ msgid ""
+#~ "Line and paragraph breaks automatic, e-mail address never displayed, "
+#~ "<acronym title=\"Hypertext Markup Language\">HTML</acronym> allowed: "
+#~ "<code>%s</code>"
+#~ msgstr ""
+#~ "改行と段落タグは自動で挿入されます。メールアドレスは表示されません。利用可"
+#~ "能な <acronym title=\"Hypertext Markup Language\">HTML</acronym> タグ: "
+#~ "<code>%s</code>"
+
+#~ msgid ""
+#~ "This post is password protected. Enter the password to view comments."
+#~ msgstr ""
+#~ "この投稿はパスワードで保護されています。コメントを閲覧するにはパスワードを"
+#~ "入力してください。"
+
+#~ msgid "This page validates as XHTML 1.0 Transitional"
+#~ msgstr "このページは XHTML 1.0 Transitional に準拠しています"
+
+#~ msgid "Sorry, the comment form is closed at this time."
+#~ msgstr "現在、コメントフォームは閉鎖中です。"
+
+#~ msgid "%1$s - Comments on %2$s"
+#~ msgstr "%1$s - %2$s へのコメント"
+
+#~ msgid ""
+#~ "<abbr title=\"Really Simple Syndication\">RSS</abbr> feed for comments on "
+#~ "this post."
+#~ msgstr ""
+#~ "この投稿へのコメントの <abbr title=\"Really Simple Syndication\">RSS</"
+#~ "abbr> フィード。"
+
+#~ msgid ""
+#~ "The <abbr title=\"Universal Resource Locator\">URL</abbr> to TrackBack "
+#~ "this entry is: <em>%s</em>"
+#~ msgstr ""
+#~ "この投稿へのトラックバック <abbr title=\"Universal Resource Locator"
+#~ "\">URL</abbr>: <em>%s</em>"
+
+#~ msgid "by %1$s &#8212; %2$s @ <a href=\"#comment-%3$s\">%4$s</a>"
+#~ msgstr "&#8212; %2$s @ <a href=\"#comment-%3$s\">%4$s</a>: %1$s より"
+
+#~ msgid "Leave a comment"
+#~ msgstr "コメントする"
+
+#~ msgid "Choose from the most used tags"
+#~ msgstr "よく使われているタグから選択"
+
+#~ msgid ""
+#~ "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> "
+#~ "tags and attributes: %s"
+#~ msgstr ""
+#~ "次の<abbr title=\"HyperText Markup Language\">HTML</abbr> タグと属性が使え"
+#~ "ます: %s"
+
+#~ msgctxt "taxonomy singular name"
+#~ msgid "Category"
+#~ msgstr "カテゴリー"
+
+#~ msgid "Search Tags"
+#~ msgstr "タグを検索"
+
+#~ msgid "Popular Tags"
+#~ msgstr "人気のタグ"
+
+#~ msgid "New Category Name"
+#~ msgstr "新規カテゴリー名"
+
+#~ msgid "New Tag Name"
+#~ msgstr "新規タグ名"
+
+#~ msgid "Add New Category"
+#~ msgstr "新規カテゴリーを追加"
+
+#~ msgid "Add New Tag"
+#~ msgstr "新規タグを追加"
+
+#~ msgid "Update Tag"
+#~ msgstr "タグを更新"
+
+#~ msgid "Parent Category:"
+#~ msgstr "親カテゴリー:"
+
+#~ msgid "Parent Category"
+#~ msgstr "親カテゴリー"
+
+#~ msgid "All Tags"
+#~ msgstr "すべてのタグ"
+
+#~ msgctxt "taxonomy general name"
+#~ msgid "Categories"
+#~ msgstr "カテゴリー"
+
+#~ msgid "Sorry, new registrations are not allowed at this time."
+#~ msgstr "現在このサイトに新規登録することはできません。"
+
+#~ msgid "Check your inbox at <strong>%s</strong> and click the link given."
+#~ msgstr ""
+#~ "<strong>%s</strong> の受信トレイを確認して、メールに記載されているリンクを"
+#~ "クリックしてください。"
+
+#~ msgid ""
+#~ "Wait a little longer. Sometimes delivery of email can be delayed by "
+#~ "processes outside of our control."
+#~ msgstr ""
+#~ "もう少々お待ちください。時々私たちがコントロールできない理由でメールの配達"
+#~ "が遅れることがあります。"
+
+#~ msgid ""
+#~ "Check the junk or spam folder of your email client. Sometime emails wind "
+#~ "up there by mistake."
+#~ msgstr ""
+#~ "メールクライアントの迷惑メールやスパムメール受信箱を確認してみてください。"
+#~ "ときどきメールが誤って処理されることがあります。"
+
+#~ msgid ""
+#~ "Greetings Site Administrator! You are currently allowing &#8220;%s&#8221; "
+#~ "registrations. To change or disable registration go to your <a href=\"%s"
+#~ "\">Options page</a>."
+#~ msgstr ""
+#~ "サイト管理者さん、こんにちは ! 現在&#8220;%s&#8221; の登録を許可していま"
+#~ "す。登録を変更・無効化するには<a href=\"%s\">サイト設定</a>ページを開いて"
+#~ "ください。"
+
+#~ msgid ""
+#~ "We send your registration email to this address. (Double-check your email "
+#~ "address before continuing.)"
+#~ msgstr ""
+#~ "登録完了のメールをこのアドレスに送ります。(次に進む前にメールアドレスをも"
+#~ "う一度確認してください)"
+
+#~ msgid "Search Pages"
+#~ msgstr "固定ページを検索"
+
+#~ msgid "Add New Post"
+#~ msgstr "新規投稿を追加"
+
+#~ msgid "Parent Page:"
+#~ msgstr "親ページ: "
+
+#~ msgctxt "post type general name"
+#~ msgid "Posts"
+#~ msgstr "投稿"
+
+#~ msgid "Edit Page"
+#~ msgstr "固定ページを編集"
+
+#~ msgid "Search Posts"
+#~ msgstr "投稿を検索"
+
+#~ msgid "Add New Page"
+#~ msgstr "新規固定ページを追加"
+
+#~ msgctxt "post type general name"
+#~ msgid "Pages"
+#~ msgstr "固定ページ"
+
+#~ msgctxt "post type singular name"
+#~ msgid "Page"
+#~ msgstr "固定ページ"
+
+#~ msgctxt "post type singular name"
+#~ msgid "Post"
+#~ msgstr "投稿"
+
+#~ msgid ""
+#~ "The constant <code>VHOST</code> <strong>is deprecated</strong>. Use the "
+#~ "boolean constant <code>SUBDOMAIN_INSTALL</code> in wp-config.php to "
+#~ "enable a subdomain configuration. Use is_subdomain_install() to check "
+#~ "whether a subdomain configuration is enabled."
+#~ msgstr ""
+#~ "定数 <code>VHOST</code> は<strong>廃止予定です</strong>。サブドメインの設"
+#~ "定は、wp-config.php の中で二値定数 <code>SUBDOMAIN_INSTALL</code> で行って"
+#~ "ください。is_subdomain_install() を用いて、サブドメインが有効かどうか"
+#~ "チェックできます。"
+
+#~ msgid ""
+#~ "<strong>Conflicting values for the constants VHOST and SUBDOMAIN_INSTALL."
+#~ "</strong> The value of SUBDOMAIN_INSTALL will be assumed to be your "
+#~ "subdomain configuration setting."
+#~ msgstr ""
+#~ "<strong>定数 VHOST と 定数 SUBDOMAIN_INSTALL が矛盾しています。</strong> "
+#~ "SUBDOMAIN_INSTALL の値はサブドメインの設定と合わせてください。"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: This username is invalid because it uses illegal "
+#~ "characters. Please enter a valid username."
+#~ msgstr ""
+#~ "<strong>エラー</strong>: このユーザー名は使用できない文字を含んでいるた"
+#~ "め、無効です。有効なユーザー名を入力してください。"
+
+#~ msgid "Required fields are marked %s"
+#~ msgstr "%s が付いている欄は必須項目です"
+
+#~ msgid "Please include a %1$s template in your theme."
+#~ msgstr "%1$s テンプレートをテーマに含めてください。"
+
+#~ msgid "Theme without %1$s"
+#~ msgstr "%1$s のないテーマ"
+
+#~ msgid ""
+#~ "<strong>Could not find site <code>%1$s</code>.</strong> Searched for "
+#~ "table <code>%2$s</code> in database <code>%3$s</code>. Is that right?"
+#~ msgstr ""
+#~ "<strong>サイト <code>%1$s</code> が見つかりませんでした。</strong> <code>"
+#~ "%2$s</code> データベース内で <code>%3$s</code> テーブルを検索しましたが、"
+#~ "これで間違いありませんか ?"
+
+#~ msgid ""
+#~ "The <code>%s</code> option is deprecated for the family of "
+#~ "<code>bloginfo()</code> functions."
+#~ msgstr ""
+#~ "<code>bloginfo()</code> 関数群内の <code>%s</code> オプションは非推奨にな"
+#~ "りました。"
+
+#~ msgid "Use the <code>%s</code> option instead."
+#~ msgstr "かわりに <code>%s</code> オプションを使ってください。"
+
+#~ msgid ""
+#~ "<strong>Database tables are missing.</strong> This means that MySQL is "
+#~ "not running, WordPress was not installed properly, or someone deleted "
+#~ "<code>%s</code>. You really should look at your database now."
+#~ msgstr ""
+#~ "<strong>データベーステーブルがありません。</strong>MySQL が起動していない"
+#~ "か、WordPress が正しくインストールされていないか、<code>%s</code> が削除さ"
+#~ "れています。今すぐデータベースをチェックした方が良いでしょう。"
+
+#~ msgid "Sorry, you do not have access to user data on this site."
+#~ msgstr "このサイトのユーザーデータにアクセスできません。"
+
+#~ msgid "Sorry, you are not allowed to post on this site."
+#~ msgstr "このサイトに投稿する権限がありません。"
+
+#~ msgid "Sorry, you are not allowed to publish posts on this site."
+#~ msgstr "このサイトで投稿を公開する権限がありません。"
+
+#~ msgid ""
+#~ "Sorry, you must be able to edit posts on this site in order to view "
+#~ "categories."
+#~ msgstr "カテゴリーを表示するにはこのサイトの投稿を編集する権限が必要です。"
+
+#~ msgid "Sorry, you are not allowed to publish pages on this site."
+#~ msgstr "このサイトでページを公開する権限がありません。"
+
+#~ msgid "Sorry, that site already exists!"
+#~ msgstr "このサイト名はすでに使用されています !"
+
+#~ msgid ""
+#~ "To activate your blog, please click the following link:\n"
+#~ "\n"
+#~ "%s\n"
+#~ "\n"
+#~ "After you activate, you will receive *another email* with your login.\n"
+#~ "\n"
+#~ "After you activate, you can visit your site here:\n"
+#~ "\n"
+#~ "%s"
+#~ msgstr ""
+#~ "ブログを有効化するには次のリンクをクリックしてください:\n"
+#~ "\n"
+#~ "%s\n"
+#~ "\n"
+#~ "有効化を行うとメールがもう一通届きます。ここにログイン情報が書いてありま"
+#~ "す。\n"
+#~ "\n"
+#~ "有効化後、以下のリンクから自分のサイトにアクセスできます:\n"
+#~ "\n"
+#~ "%s"
+
+#~ msgid "New Site Registration: %s"
+#~ msgstr "新規サイト登録: %s"
+
+#~ msgid "Sorry, site names may not contain the character &#8220;_&#8221;!"
+#~ msgstr "サイト名に '_' (アンダーバー) を含めることはできません !"
+
+#~ msgid "New %1$s Site: %2$s"
+#~ msgstr "新しい %1$s のサイト: %2$s"
+
+#~ msgid "The site is already active."
+#~ msgstr "このサイトはすでに有効化済みです。"
+
+#~ msgid "Sorry, you cannot edit posts on this site."
+#~ msgstr "このサイトの投稿は編集できません。"
+
+#~ msgid ""
+#~ "Sorry, you must be able to edit posts to this site in order to view "
+#~ "categories."
+#~ msgstr "カテゴリーを表示するにはこのサイトの投稿を編集する権限が必要です。"
+
+#~ msgid "You are not allowed access to details about this site."
+#~ msgstr "このサイトの詳細へアクセスする権限がありません。"
+
+#~ msgid "Could not create site."
+#~ msgstr "サイトを作成できませんでした。"
+
+#~ msgid "Sorry, site names must have letters too!"
+#~ msgstr "サイト名には半角アルファベットを含めてください !"
+
+#~ msgid "Sorry, you may not use that site name."
+#~ msgstr "このサイト名は使えません。"
+
+#~ msgid "Sorry, that site is reserved!"
+#~ msgstr "このサイト名は予約済みです !"
+
+#~ msgid ""
+#~ "That site is currently reserved but may be available in a couple days."
+#~ msgstr "このサイト名は予約中ですが、数日中に利用可能になるかもしれません。"
+
+#~ msgid "New user registration on your site %s:"
+#~ msgstr "サイト「 %s 」の新規ユーザー登録:"
+
+#~ msgid "You are not allowed to moderate comments on this site."
+#~ msgstr "このサイトのコメントをモデレートする権限がありません。"
+
+#~ msgid ""
+#~ "Sorry, you must be able to edit posts on this site in order to view tags."
+#~ msgstr "タグを表示するにはこのサイトの投稿を編集する権限が必要です。"
+
+#~ msgid "Site Tagline"
+#~ msgstr "サイトのキャッチフレーズ"
+
+#~ msgid "This site has been archived or suspended."
+#~ msgstr "このサイトはアーカイブに保存されたか一時停止中になっています。"
+
+#~ msgid ""
+#~ "The site you have requested is not installed properly. Please contact the "
+#~ "system administrator."
+#~ msgstr ""
+#~ "リクエストされたサイトは正常にインストールされていません。システム管理者に"
+#~ "お問い合わせください。"
+
+#~ msgctxt "search results"
+#~ msgid "No results found."
+#~ msgstr "見つかりません。"
+
+#~ msgid ""
+#~ "The menu name <strong>%s</strong> conflicts with another menu name. "
+#~ "Please try another."
+#~ msgstr ""
+#~ "<strong>%s</strong> という名前のメニューは既に存在しています。別の名前にし"
+#~ "てください。"
+
+#~ msgid "The given object ID is not that of a menu item."
+#~ msgstr "指定された ID はメニュー項目のものではありません。"
+
+#~ msgid ""
+#~ "The email address entered did not appear to be a valid email address. "
+#~ "Please enter a valid email address."
+#~ msgstr ""
+#~ "入力されたメールアドレスの形式が間違っているようです。正しいアドレスを記入"
+#~ "してください。"
+
+#~ msgid ""
+#~ "The WordPress address you entered did not appear to be a valid URL. "
+#~ "Please enter a valid URL."
+#~ msgstr ""
+#~ "入力された WordPress のアドレスは正しい URL の形式ではないようです。正し"
+#~ "い URL を記入してください。"
+
+#~ msgid ""
+#~ "The Site address you entered did not appear to be a valid URL. Please "
+#~ "enter a valid URL."
+#~ msgstr ""
+#~ "入力されたサイトのアドレスは正しい URL の形式ではないようです。正しい URL "
+#~ "を記入してください。"
+
+#~ msgid "A term with the name provided already exists with this parent."
+#~ msgstr "この項目の親項目の下に同じ名前のものが既に存在しています。"
+
+#~ msgid ""
+#~ "An error occurred adding you to this site. Back to the <a href=\"%s"
+#~ "\">homepage</a>."
+#~ msgstr ""
+#~ "あなたをこのサイトに追加する際にエラーが起こりました。<a href=\"%s\">ホー"
+#~ "ムページ</a>に戻ってください。"
+
+#~ msgid "This file is too big. Files must be less than %d KB in size."
+#~ msgstr "ファイルが大きすぎます。サイズを%dキロバイト以下にしてください。"
+
+#~ msgid "number_format_decimal_point"
+#~ msgstr "number_format_decimal_point"
+
+#~ msgid "Your email address will not be published."
+#~ msgstr "メールアドレスが公開されることはありません。"
+
+#~ msgid "A valid URL was not provided."
+#~ msgstr "有効な URL ではありません。"
+
+#~ msgid ""
+#~ "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out "
+#~ "of this account\">Log out?</a>"
+#~ msgstr ""
+#~ "<a href=\"%1$s\">%2$s</a> としてログインしています。<a href=\"%3$s\" "
+#~ "title=\"このアカウントからログアウトする\">ログアウトしますか ?</a>"
+
+#~ msgid "Could not calculate resized image dimensions"
+#~ msgstr "変更後の画像サイズを取得できませんでした。"
+
+#~ msgid ""
+#~ "Must be at least 4 characters, letters and numbers only. It cannot be "
+#~ "changed, so choose carefully!"
+#~ msgstr ""
+#~ "4字以上のアルファベットと数字のみが使えます。変更はできませんので慎重に選"
+#~ "んでください !"
+
+#~ msgid ""
+#~ "You must first <a href=\"%s\">log in</a>, and then you can create a new "
+#~ "site."
+#~ msgstr ""
+#~ "新しいサイトを作成するには、まず<a href=\"%s\">ログイン</a>してください。"
+
+#~ msgid "You are logged in already. No need to register again!"
+#~ msgstr "すでにログインしています。再登録する必要はありません !"
+
+#~ msgid ""
+#~ "Use <code>get_trackback_url()</code> instead if you do not want the value "
+#~ "echoed."
+#~ msgstr ""
+#~ "値を表示したくない場合は代わりに <code>get_trackback_url()</code> を使って"
+#~ "ください。"
+
+#~ msgid "This action has been disabled by the administrator."
+#~ msgstr "この操作は管理者によって無効化されています。"
+
+#~ msgid ""
+#~ "Welcome back, %s. By filling out the form below, you can <strong>add "
+#~ "another site to your account</strong>. There is no limit to the number of "
+#~ "sites you can have, so create to your heart&#8217;s content, but write "
+#~ "responsibly!"
+#~ msgstr ""
+#~ "お帰りなさい、%s さん。以下に入力すると、<strong>アカウントにもうひとつサ"
+#~ "イトを追加</strong>できます。サイトの数に制限はありませんので好きなだけ作"
+#~ "成してかまいませんが、責任を持って運営してください。"
+
+#~ msgid "Sorry, usernames may not contain the character &#8220;_&#8221;!"
+#~ msgstr "ユーザー名に '_' (アンダーバー) を含めることはできません !"
+
+#~ msgid ""
+#~ "If you haven&#8217;t received your email yet, there are a number of "
+#~ "things you can do:"
+#~ msgstr "確認メールがまだ届いていない場合、いくつか試せることがあります。"
+
+#~ msgid ""
+#~ "Use <code>get_the_author()</code> instead if you do not want the value "
+#~ "echoed."
+#~ msgstr ""
+#~ "値を表示したくない場合は代わりに <code>get_the_author()</code> を使ってく"
+#~ "ださい。"
+
+#~ msgid ""
+#~ "If you&#8217;re still stuck with this message, then check that your "
+#~ "database contains the following tables:"
+#~ msgstr ""
+#~ "このメッセージが表示され続ける場合は、データベースに以下のテーブルが含まれ"
+#~ "ているか確認してください。"
+
+#~ msgid "Are you sure you want to install this plugin?"
+#~ msgstr "本当にこのプラグインをインストールしてもいいですか ?"
+
+#~ msgid "Use as featured image"
+#~ msgstr "アイキャッチ画像として使用"
+
+#~ msgid "Mismatch"
+#~ msgstr "不一致"
+
+#~ msgid "Maintenance"
+#~ msgstr "メンテナンス"
+
+#~ msgid ""
+#~ "Briefly unavailable for scheduled maintenance. Check back in a minute."
+#~ msgstr "現在メンテナンス中のため、しばらくの間ご利用いただけません。"
+
+#~ msgid "Navigation Menu Items"
+#~ msgstr "ナビゲーションメニューの項目"
+
+#~ msgid "Navigation Menu Item"
+#~ msgstr "ナビゲーションメニューの項目"
+
+#~ msgid "Navigation Menus"
+#~ msgstr "ナビゲーションメニュー"
+
+#~ msgid "Links for %s"
+#~ msgstr "%s へのリンク"
+
+#~ msgid "Custom"
+#~ msgstr "カスタム"
+
+#~ msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+#~ msgstr "メニューはまだ作成されていません。<a href=\"%s\">作成する</a>。"
+
+#~ msgid ""
+#~ "You are about to permanently delete this menu. \n"
+#~ " 'Cancel' to stop, 'OK' to delete."
+#~ msgstr ""
+#~ "このメニューを完全に削除しようとしています。\n"
+#~ "中止するには「キャンセル」を、削除するには「OK」をクリックしてください。"
+
+#~ msgid "This is the short link."
+#~ msgstr "これは短縮 URL です。"
+
+#~ msgid "%d WordPress Update"
+#~ msgstr "%d件の WordPress 更新"
+
+#~ msgid "%d Theme Update"
+#~ msgid_plural "%d Theme Updates"
+#~ msgstr[0] "%d件のテーマ更新"
+
+#~ msgid "%d Plugin Update"
+#~ msgid_plural "%d Plugin Updates"
+#~ msgstr[0] "%d件のプラグイン更新"
+
+#~ msgid "The site %s is yours."
+#~ msgstr "このサイト %s があなたのサイトです。"
+
+#~ msgid "Create Site"
+#~ msgstr "サイトを作成"
+
+#~ msgid ""
+#~ "If you&#8217;re not going to use a great site domain, leave it for a new "
+#~ "user. Now have at it!"
+#~ msgstr ""
+#~ "もしサイトのドメインを使用しないのなら、新しいユーザーのためにとっておいて"
+#~ "ください。ではどうぞはじめてください !"
+
+#~ msgid "Sites you are already a member of:"
+#~ msgstr "すでにメンバー登録済みのサイト: "
+
+#~ msgid ""
+#~ "This site has not been activated yet. If you are having problems "
+#~ "activating your site, please contact <a href=\"mailto:%1$s\">%1$s</a>."
+#~ msgstr ""
+#~ "このサイトはまだ有効化されていません。有効化がうまくいかないときは、<a "
+#~ "href=\"mailto:%1$s\">%1$s</a> までお問い合わせください。"
+
+#~ msgid "File canceled."
+#~ msgstr "ファイルをキャンセルしました。"
+
+#~ msgid "Site Title:"
+#~ msgstr "サイトのタイトル:"
+
+#~ msgid "Site Domain:"
+#~ msgstr "サイトのドメイン:"
+
+#~ msgid "Site Name:"
+#~ msgstr "サイト名:"
+
+#~ msgid "sitename"
+#~ msgstr "サイト名"
+
+#~ msgid "Get <em>another</em> %s site in seconds"
+#~ msgstr "新しい %s ブログを今すぐ作成"
+
+#~ msgid "Congratulations! Your new site, %s, is almost ready."
+#~ msgstr "おめでとうございます ! 新しいサイト、%s の準備がほぼ整いました。"
+
+#~ msgid "Site registration has been disabled."
+#~ msgstr "サイト登録は無効化されました。"
+
+#~ msgid "Gimme a site!"
+#~ msgstr "サイトを作成 !"
+
+#~ msgid ""
+#~ "But, before you can start using your site, <strong>you must activate it</"
+#~ "strong>."
+#~ msgstr ""
+#~ "ただし、サイトを利用する前に<strong>有効化する必要があります</strong>。"
+
+#~ msgid ""
+#~ "If you do not activate your site within two days, you will have to sign "
+#~ "up again."
+#~ msgstr "2日以内にサイトを有効化しなかった場合、再登録が必要になります。"
+
+#~ msgid "Select Menu:"
+#~ msgstr "メニューを選択:"
+
+#~ msgid "Navigation Menu"
+#~ msgstr "ナビゲーションメニュー"
+
+#~ msgid "Taxonomy:"
+#~ msgstr "分類:"
+
+#~ msgid "Menus"
+#~ msgstr "メニュー"
+
+#~ msgid "Software Name"
+#~ msgstr "ソフト名"
+
+#~ msgid "Software Version"
+#~ msgstr "ソフトのバージョン"
+
+#~ msgid "Time Zone"
+#~ msgstr "タイムゾーン"
+
+#~ msgid "Allow new users to sign up"
+#~ msgstr "新規ユーザーの登録を許可"
+
+#~ msgid "Sorry, you cannot edit this page."
+#~ msgstr "このページは編集できません。"
+
+#~ msgid "Sorry, no such page."
+#~ msgstr "そのようなページはありません。"
+
+#~ msgid "Sorry, you cannot edit pages."
+#~ msgstr "ページの編集はできません。"
+
+#~ msgid "Sorry, you do not have the right to delete this page."
+#~ msgstr "このページを削除する権限はありません。"
+
+#~ msgid "Failed to delete the page."
+#~ msgstr "このページの削除に失敗しました。"
+
+#~ msgid "Sorry, you do not have the right to edit this page."
+#~ msgstr "この固定ページを編集する権限はありません。"
+
+#~ msgid "Sorry, you do not have the right to add a category."
+#~ msgstr "カテゴリー追加の権限がありません。"
+
+#~ msgid "Sorry, the new category failed."
+#~ msgstr "新しいカテゴリーの追加に失敗しました。"
+
+#~ msgid "Sorry, you do not have the right to delete a category."
+#~ msgstr "カテゴリーを削除する権限がありません。"
+
+#~ msgid "Invalid comment ID."
+#~ msgstr "無効なコメント ID です。"
+
+#~ msgid "Sorry, you cannot edit comments."
+#~ msgstr "コメントの編集はできません。"
+
+#~ msgid "Invalid comment status."
+#~ msgstr "コメントの状態が正しくありません。"
+
+#~ msgid "Sorry, the comment could not be edited. Something wrong happened."
+#~ msgstr "コメントを編集できませんでした。何か問題が起こりました。"
+
+#~ msgid "You must be registered to comment"
+#~ msgstr "コメントするにはユーザー登録する必要があります"
+
+#~ msgid "Invalid post ID."
+#~ msgstr "無効な投稿 ID です。"
+
+#~ msgid "Comment author name and email are required"
+#~ msgstr "名前とメールアドレスの入力を必須にする"
+
+#~ msgid "A valid email address is required"
+#~ msgstr "有効なメールアドレスを入力してください"
+
+#~ msgid "You are not allowed access to details about comments."
+#~ msgstr "コメントの詳細へアクセスする権限がありません。"
+
+#~ msgid "You are not allowed to update options."
+#~ msgstr "設定を更新する権限がありません。"
+
+#~ msgid "Sorry, you cannot edit this post."
+#~ msgstr "この投稿の編集はできません。"
+
+#~ msgid "Either there are no posts, or something went wrong."
+#~ msgstr "投稿がないか、何かうまくいかなかったようです。"
+
+#~ msgid "Sorry, no such post."
+#~ msgstr "そのような投稿はありません。"
+
+#~ msgid "Sorry, you do not have the right to publish this post."
+#~ msgstr "この投稿を公開する権限がありません。"
+
+#~ msgid "You are not allowed to change the post author as this user."
+#~ msgstr "投稿作成者を変更する権限がありません。"
+
+#~ msgid "You are not allowed to change the page author as this user."
+#~ msgstr "ページ作成者を変更する権限がありません。"
+
+#~ msgid "Sorry, you do not have the right to publish this page."
+#~ msgstr "このページを公開する権限がありません。"
+
+#~ msgid "Sorry, your entry could not be edited. Something wrong happened."
+#~ msgstr "投稿を編集できませんでした。何か問題が起こりました。"
+
+#~ msgid "Could not write file %1$s (%2$s)"
+#~ msgstr "ファイル %1$s (%2$s) に書き込めませんでした"
+
+#~ msgid "Sorry, you can not edit this post."
+#~ msgstr "この投稿の編集はできません。"
+
+#~ msgid "Is there no link to us?"
+#~ msgstr "私たちへのリンクはないのですか ?"
+
+#~ msgid ""
+#~ "The specified target URL cannot be used as a target. It either "
+#~ "doesn&#8217;t exist, or it is not a pingback-enabled resource."
+#~ msgstr ""
+#~ "指定されたターゲット URL はターゲットとして使用できません。この URL は存在"
+#~ "しないかピンバックが有効になっていません。"
+
+#~ msgid ""
+#~ "The source URL and the target URL cannot both point to the same resource."
+#~ msgstr ""
+#~ "ソース URL とターゲット URL に同一のリソースを指定することはできません。"
+
+#~ msgid "The pingback has already been registered."
+#~ msgstr "そのピンバックはすでに登録済みです。"
+
+#~ msgid "The source URL does not exist."
+#~ msgstr "元のURLが存在しません。"
+
+#~ msgid "We cannot find a title on that page."
+#~ msgstr "そのページのタイトルが見つかりません。"
+
+#~ msgid ""
+#~ "The source URL does not contain a link to the target URL, and so cannot "
+#~ "be used as a source."
+#~ msgstr ""
+#~ "ソース URL にターゲット URL へのリンクが含まれていないので、ソースとして使"
+#~ "用することができません。"
+
+#~ msgid "Pingback from %1$s to %2$s registered. Keep the web talking! :-)"
+#~ msgstr ""
+#~ "%1$s より %2$s へのピンバックが登録されました。ウェブでの会話を続けてくだ"
+#~ "さい ! :-)"
+
+#~ msgid "The specified target URL does not exist."
+#~ msgstr "指定したターゲット URL が存在しません。"
+
+#~ msgid ""
+#~ "Your PHP installation appears to be missing the MySQL extension which is "
+#~ "required by WordPress."
+#~ msgstr ""
+#~ "お使いのサーバーの PHP では WordPress に必要な MySQL 拡張を利用できないよ"
+#~ "うです。"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: <code>$table_prefix</code> in <code>wp-config."
+#~ "php</code> can only contain numbers, letters, and underscores."
+#~ msgstr ""
+#~ "<strong>エラー</strong>: <code>wp-config.php</code> 内の <code>"
+#~ "$table_prefix</code> には半角英数字と下線のみしか使えません。"
+
+#~ msgid "WordPress database error %1$s for query %2$s made by %3$s"
+#~ msgstr "WordPress データベースエラー: %1$s for query %2$s made by %3$s"
+
+#~ msgid "WordPress database error %1$s for query %2$s"
+#~ msgstr "WordPress データベースエラー: %1$s for query %2$s"
+
+#~ msgid "Cancel reply"
+#~ msgstr "コメントをキャンセル"
+
+#~ msgid "Post Comment"
+#~ msgstr "コメントを送信"
+
+#~ msgid "Unapproved"
+#~ msgstr "非承認"
+
+#~ msgid ""
+#~ "Duplicate comment detected; it looks as though you&#8217;ve already said "
+#~ "that!"
+#~ msgstr ""
+#~ "重複しているコメントが見つかりました。同じコメントをすでに投稿しているよう"
+#~ "です。"
+
+#~ msgid "Could not update comment status"
+#~ msgstr "コメントの状態を更新できませんでした"
+
+#~ msgid ""
+#~ "This argument has changed to an array to match the behavior of the other "
+#~ "cron functions."
+#~ msgstr ""
+#~ "この変数は他の cron 関数の動作と統一させるため配列に変更されました。"
+
+#~ msgid "Once Hourly"
+#~ msgstr "1時間に1回"
+
+#~ msgid "Twice Daily"
+#~ msgstr "1日2回"
+
+#~ msgid "Once Daily"
+#~ msgstr "1日1回"
+
+#~ msgid "Sort by:"
+#~ msgstr "並び順:"
+
+#~ msgid "Page title"
+#~ msgstr "ページタイトル"
+
+#~ msgid "Page order"
+#~ msgstr "ページ順序"
+
+#~ msgid "Page ID"
+#~ msgstr "ページ ID"
+
+#~ msgid "Exclude:"
+#~ msgstr "除外ページ:"
+
+#~ msgid "Page IDs, separated by commas."
+#~ msgstr "ページ ID を入力。複数の場合はコンマで区切る。"
+
+#~ msgid "Your blogroll"
+#~ msgstr "リンクを表示"
+
+#~ msgid "Show Link Image"
+#~ msgstr "リンクの画像を表示"
+
+#~ msgid "Show Link Name"
+#~ msgstr "リンクの名前を表示"
+
+#~ msgid "Show Link Description"
+#~ msgstr "リンクの説明を表示"
+
+#~ msgid "Show Link Rating"
+#~ msgstr "リンクの評価を表示"
+
+#~ msgid "Select Month"
+#~ msgstr "月を選択"
+
+#~ msgid "Show post counts"
+#~ msgstr "投稿数を表示"
+
+#~ msgid "Entries <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+#~ msgstr "投稿の <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+
+#~ msgid "Calendar"
+#~ msgstr "カレンダー"
+
+#~ msgid "Text"
+#~ msgstr "テキスト"
+
+#~ msgid "Automatically add paragraphs"
+#~ msgstr "自動的に段落追加する"
+
+#~ msgid "Select Category"
+#~ msgstr "カテゴリーを選択"
+
+#~ msgid "Show hierarchy"
+#~ msgstr "階層を表示"
+
+#~ msgid "Recent Posts"
+#~ msgstr "最近の投稿"
+
+#~ msgid "Number of posts to show:"
+#~ msgstr "表示する投稿数:"
+
+#~ msgctxt "widgets"
+#~ msgid "%1$s on %2$s"
+#~ msgstr "%2$s に %1$s より"
+
+#~ msgid "Untitled"
+#~ msgstr "名称未設定"
+
+#~ msgid "RSS Error: %s"
+#~ msgstr "RSS エラー: %s"
+
+#~ msgid "Enter the RSS feed URL here:"
+#~ msgstr "RSS フィードの URL:"
+
+#~ msgid "Give the feed a title (optional):"
+#~ msgstr "このフィードにタイトルをつける (オプション):"
+
+#~ msgid "How many items would you like to display?"
+#~ msgstr "フィード内の項目をいくつ表示しますか ?"
+
+#~ msgid "Display item content?"
+#~ msgstr "項目の内容を表示しますか ?"
+
+#~ msgid "Display item author if available?"
+#~ msgstr "もしあれば項目の作成者を表示しますか ?"
+
+#~ msgid "Display item date?"
+#~ msgstr "項目の日付を表示しますか ?"
+
+#~ msgid "Tag Cloud"
+#~ msgstr "タグクラウド"
+
+#~ msgid "new WordPress Loop"
+#~ msgstr "新しい WordPress ループ"
+
+#~ msgid "Last updated"
+#~ msgstr "最終更新日時"
+
+#~ msgid "Missing Attachment"
+#~ msgstr "添付ファイルが見つかりません"
+
+#~ msgid "Comments for %1$s searching on %2$s"
+#~ msgstr "%1$s へのコメント: %2$s 上の検索"
+
+#~ msgid "Comments for %s"
+#~ msgstr "%s へのコメント"
+
+#~ msgid "Comment on %1$s by %2$s"
+#~ msgstr "%2$s より %1$s へのコメント"
+
+#~ msgid "By: %s"
+#~ msgstr "%s より"
+
+#~ msgid "Comments on: %s"
+#~ msgstr "%s へのコメント"
+
+#~ msgid "Protected Comments: Please enter your password to view comments."
+#~ msgstr "コメント保護中: 表示するにはパスワードを入力してください。"
+
+#~ msgid "%s min"
+#~ msgid_plural "%s mins"
+#~ msgstr[0] "%s分"
+
+#~ msgid "%s hour"
+#~ msgid_plural "%s hours"
+#~ msgstr[0] "%s時間"
+
+#~ msgid "%s day"
+#~ msgid_plural "%s days"
+#~ msgstr[0] "%s日"
+
+#~ msgid ", "
+#~ msgstr ", "
+
+#~ msgid "%s is a protected WP option and may not be modified"
+#~ msgstr "%s は保護されている WP 設定なので変更できません"
+
+#~ msgid ""
+#~ "Unable to create directory %s. Is its parent directory writable by the "
+#~ "server?"
+#~ msgstr ""
+#~ "ディレクトリ %s を作成できませんでした。この親ディレクトリのアクセス権は"
+#~ "サーバーによる書き込みを許可していますか ?"
+
+#~ msgid "Empty filename"
+#~ msgstr "ファイル名が空です"
+
+#~ msgid "Could not write file %s"
+#~ msgstr "ファイル %s に書き込めませんでした"
+
+#~ msgid "You are attempting to log out of %s"
+#~ msgstr "%s からログアウトしようとしています"
+
+#~ msgid "WordPress Failure Notice"
+#~ msgstr "WordPress エラー通知"
+
+#~ msgid "Do you really want to <a href='%s'>log out</a>?"
+#~ msgstr "本当に<a href='%s'>ログアウト</a>しますか ?"
+
+#~ msgid "Please try again."
+#~ msgstr "もう一度お試しください。"
+
+#~ msgid "&laquo; Back"
+#~ msgstr "&laquo; 戻る"
+
+#~ msgid "WordPress &rsaquo; Error"
+#~ msgstr "WordPress &rsaquo; エラー"
+
+#~ msgid ""
+#~ "%1$s is <strong>deprecated</strong> since version %2$s! Use %3$s instead."
+#~ msgstr ""
+#~ "%1$s の使用はバージョン %2$s から<strong>非推奨</strong>になっています! 代"
+#~ "わりに %3$s を使ってください。"
+
+#~ msgid ""
+#~ "%1$s is <strong>deprecated</strong> since version %2$s with no "
+#~ "alternative available."
+#~ msgstr ""
+#~ "%1$s の使用はバージョン %2$s から<strong>非推奨</strong>になりました。代替"
+#~ "は用意されておりません。"
+
+#~ msgid ""
+#~ "%1$s was called with an argument that is <strong>deprecated</strong> "
+#~ "since version %2$s! %3$s"
+#~ msgstr ""
+#~ "%1$s の使用はバージョン %2$s から<strong>非推奨</strong>になりました ! "
+#~ "%3$s"
+
+#~ msgid ""
+#~ "%1$s was called with an argument that is <strong>deprecated</strong> "
+#~ "since version %2$s with no alternative available."
+#~ msgstr ""
+#~ "%1$s の使用はバージョン %2$s から<strong>非推奨</strong>になりました。代替"
+#~ "は用意されていません。"
+
+#~ msgid "Select a city"
+#~ msgstr "町を選択してください"
+
+#~ msgid "UTC"
+#~ msgstr "UTC"
+
+#~ msgid "Manual Offsets"
+#~ msgstr "時差を直接設定"
+
+#~ msgid "Log in"
+#~ msgstr "ログイン"
+
+#~ msgid "Log out"
+#~ msgstr "ログアウト"
+
+#~ msgid "Remember Me"
+#~ msgstr "ログイン状態を保存する"
+
+#~ msgid "Register"
+#~ msgstr "登録"
+
+#~ msgid "Site Admin"
+#~ msgstr "サイト管理"
+
+#~ msgid "Search Results %1$s %2$s"
+#~ msgstr "検索結果: %1$s %2$s"
+
+#~ msgid "Page not found"
+#~ msgstr "ページが見つかりませんでした"
+
+#~ msgid "%1$s %2$d"
+#~ msgstr "%2$d年%1$s"
+
+#~ msgctxt "calendar caption"
+#~ msgid "%1$s %2$s"
+#~ msgstr "%2$s年%1$s"
+
+#~ msgctxt "feed link"
+#~ msgid "&raquo;"
+#~ msgstr "&raquo;"
+
+#~ msgid "%1$s %2$s Feed"
+#~ msgstr "%1$s %2$s フィード"
+
+#~ msgid "%1$s %2$s Comments Feed"
+#~ msgstr "%1$s %2$s コメントフィード"
+
+#~ msgid "%1$s %2$s %3$s Comments Feed"
+#~ msgstr "%1$s %2$s %3$s のコメントのフィード"
+
+#~ msgid "%1$s %2$s %3$s Category Feed"
+#~ msgstr "%1$s %2$s %3$s カテゴリーのフィード"
+
+#~ msgid "%1$s %2$s %3$s Tag Feed"
+#~ msgstr "%1$s %2$s %3$s タグのフィード"
+
+#~ msgid "%1$s %2$s Posts by %3$s Feed"
+#~ msgstr "%1$s %2$s %3$s による投稿のフィード"
+
+#~ msgid "%1$s %2$s Search Results for &#8220;%3$s&#8221; Feed"
+#~ msgstr "%1$s %2$s 検索結果: &#8220;%3$s&#8221; フィード"
+
+#~ msgid "&laquo; Previous"
+#~ msgstr "&laquo; 前へ"
+
+#~ msgid "Next &raquo;"
+#~ msgstr "次へ &raquo;"
+
+#~ msgid "User has blocked requests through HTTP."
+#~ msgstr "ユーザーは HTTP 経由のリクエストをブロックしました。"
+
+#~ msgid "Too many redirects."
+#~ msgstr "転送が多すぎます。"
+
+#~ msgid "Could not open handle for fopen() to %s"
+#~ msgstr "%s に対する fopen() のハンドラーを開くことができませんでした。"
+
+#~ msgid "January"
+#~ msgstr "1月"
+
+#~ msgid "February"
+#~ msgstr "2月"
+
+#~ msgid "March"
+#~ msgstr "3月"
+
+#~ msgid "April"
+#~ msgstr "4月"
+
+#~ msgid "May"
+#~ msgstr "5月"
+
+#~ msgid "June"
+#~ msgstr "6月"
+
+#~ msgid "July"
+#~ msgstr "7月"
+
+#~ msgid "August"
+#~ msgstr "8月"
+
+#~ msgid "September"
+#~ msgstr "9月"
+
+#~ msgid "October"
+#~ msgstr "10月"
+
+#~ msgid "November"
+#~ msgstr "11月"
+
+#~ msgid "December"
+#~ msgstr "12月"
+
+#~ msgid "Jan_January_abbreviation"
+#~ msgstr "1月_January_abbreviation"
+
+#~ msgid "Feb_February_abbreviation"
+#~ msgstr "2月_February_abbreviation"
+
+#~ msgid "Mar_March_abbreviation"
+#~ msgstr "3月_March_abbreviation"
+
+#~ msgid "Apr_April_abbreviation"
+#~ msgstr "4月_April_abbreviation"
+
+#~ msgid "May_May_abbreviation"
+#~ msgstr "5月_May_abbreviation"
+
+#~ msgid "Jun_June_abbreviation"
+#~ msgstr "6月_June_abbreviation"
+
+#~ msgid "Jul_July_abbreviation"
+#~ msgstr "7月_July_abbreviation"
+
+#~ msgid "Aug_August_abbreviation"
+#~ msgstr "8月_August_abbreviation"
+
+#~ msgid "Sep_September_abbreviation"
+#~ msgstr "9月_September_abbreviation"
+
+#~ msgid "Oct_October_abbreviation"
+#~ msgstr "10月_October_abbreviation"
+
+#~ msgid "Nov_November_abbreviation"
+#~ msgstr "11月_November_abbreviation"
+
+#~ msgid "Dec_December_abbreviation"
+#~ msgstr "12月_December_abbreviation"
+
+#~ msgid "Sunday"
+#~ msgstr "日曜日"
+
+#~ msgid "Monday"
+#~ msgstr "月曜日"
+
+#~ msgid "Tuesday"
+#~ msgstr "火曜日"
+
+#~ msgid "Wednesday"
+#~ msgstr "水曜日"
+
+#~ msgid "Thursday"
+#~ msgstr "木曜日"
+
+#~ msgid "Friday"
+#~ msgstr "金曜日"
+
+#~ msgid "Saturday"
+#~ msgstr "土曜日"
+
+#~ msgid "Sun"
+#~ msgstr "日"
+
+#~ msgid "Mon"
+#~ msgstr "月"
+
+#~ msgid "Tue"
+#~ msgstr "火"
+
+#~ msgid "Wed"
+#~ msgstr "水"
+
+#~ msgid "Thu"
+#~ msgstr "木"
+
+#~ msgid "Fri"
+#~ msgstr "金"
+
+#~ msgid "Sat"
+#~ msgstr "土"
+
+#~ msgid "Print"
+#~ msgstr "印刷"
+
+#~ msgid "Insert/edit image"
+#~ msgstr "画像の挿入/編集"
+
+#~ msgid "Insert/edit link"
+#~ msgstr "リンクの挿入/編集"
+
+#~ msgid "Insert row before"
+#~ msgstr "行を上に挿入"
+
+#~ msgid "Insert row after"
+#~ msgstr "行を下に挿入"
+
+#~ msgid "Delete row"
+#~ msgstr "行を削除"
+
+#~ msgid "Insert column before"
+#~ msgstr "列を左に挿入"
+
+#~ msgid "Insert column after"
+#~ msgstr "列を右に挿入"
+
+#~ msgid "Merge table cells"
+#~ msgstr "セルの結合"
+
+#~ msgid "Table row properties"
+#~ msgstr "行のプロパティ"
+
+#~ msgid "Table cell properties"
+#~ msgstr "セルのプロパティ"
+
+#~ msgid "Table properties"
+#~ msgstr "表のプロパティ"
+
+#~ msgid "Paste table row before"
+#~ msgstr "行を上に貼り付け"
+
+#~ msgid "Paste table row after"
+#~ msgstr "行を下に貼り付け"
+
+#~ msgid "Cut table row"
+#~ msgstr "行の切り取り"
+
+#~ msgid "Copy table row"
+#~ msgstr "行のコピー"
+
+#~ msgid "Delete table"
+#~ msgstr "表を削除"
+
+#~ msgid "Row"
+#~ msgstr "行"
+
+#~ msgid ""
+#~ "The changes you made will be lost if you navigate away from this page."
+#~ msgstr "他のページへ移動すると編集データはすべて破棄されます。"
+
+#~ msgid "Toggle fullscreen mode"
+#~ msgstr "フルスクリーン"
+
+#~ msgid "Document properties"
+#~ msgstr "ページ設定"
+
+#~ msgid "Paragraph"
+#~ msgstr "段落"
+
+#~ msgid "Address"
+#~ msgstr "アドレス"
+
+#~ msgid "Heading 1"
+#~ msgstr "見出し1"
+
+#~ msgid "Heading 2"
+#~ msgstr "見出し2"
+
+#~ msgid "Heading 3"
+#~ msgstr "見出し3"
+
+#~ msgid "Heading 4"
+#~ msgstr "見出し4"
+
+#~ msgid "Heading 5"
+#~ msgstr "見出し5"
+
+#~ msgid "Heading 6"
+#~ msgstr "見出し6"
+
+#~ msgid "Blockquote"
+#~ msgstr "引用"
+
+#~ msgid "Bold"
+#~ msgstr "太字"
+
+#~ msgid "Italic"
+#~ msgstr "イタリック"
+
+#~ msgid "Underline"
+#~ msgstr "下線"
+
+#~ msgid "Strikethrough"
+#~ msgstr "打ち消し"
+
+#~ msgid "Align Left"
+#~ msgstr "左揃え"
+
+#~ msgid "Align Center"
+#~ msgstr "中央揃え"
+
+#~ msgid "Align Right"
+#~ msgstr "右揃え"
+
+#~ msgid "Subscript"
+#~ msgstr "下付き"
+
+#~ msgid "Superscript"
+#~ msgstr "上付き"
+
+#~ msgid "Cut"
+#~ msgstr "切り取り"
+
+#~ msgid "Copy"
+#~ msgstr "コピー"
+
+#~ msgid "Paste"
+#~ msgstr "貼り付け"
+
+#~ msgid "New document"
+#~ msgstr "新規作成"
+
+#~ msgid "Image description"
+#~ msgstr "画像の説明"
+
+#~ msgid "Border"
+#~ msgstr "枠線"
+
+#~ msgid "Dimensions"
+#~ msgstr "サイズ"
+
+#~ msgid "Vertical space"
+#~ msgstr "上下余白"
+
+#~ msgid "Horizontal space"
+#~ msgstr "左右余白"
+
+#~ msgid "General"
+#~ msgstr "一般"
+
+#~ msgid "List"
+#~ msgstr "リスト"
+
+#~ msgid "Constrain proportions"
+#~ msgstr "縦横比を保存"
+
+#~ msgid "Loop"
+#~ msgstr "繰り返し再生"
+
+#~ msgid "Align"
+#~ msgstr "配置"
+
+#~ msgid "Background"
+#~ msgstr "背景"
+
+#~ msgid "Fullscreen"
+#~ msgstr "フルスクリーン"
+
+#~ msgid "Mute"
+#~ msgstr "ミュート"
+
+#~ msgid "Insert More Tag"
+#~ msgstr "More タグを挿入"
+
+#~ msgid "Edit Gallery"
+#~ msgstr "ギャラリーを編集"
+
+#~ msgid "Source"
+#~ msgstr "ソース"
+
+#~ msgid "Link Rel"
+#~ msgstr "リンク rel"
+
+#~ msgid ""
+#~ "Rather than reaching for your mouse to click on the toolbar, use these "
+#~ "access keys. Windows and Linux use Ctrl + letter. Macintosh uses Command "
+#~ "+ letter."
+#~ msgstr ""
+#~ "ツールバーをクリックするためにマウスに手を伸ばすよりも次のアクセスキーを使"
+#~ "用してみましょう。Windows と Linux では Ctrl + 文字、Macintosh では "
+#~ "Command + 文字を使用します。"
+
+#~ msgid "Letter"
+#~ msgstr "キー"
+
+#~ msgid "Action"
+#~ msgstr "操作"
+
+#~ msgid "Select all"
+#~ msgstr "すべて選択"
+
+#~ msgid ""
+#~ "The following shortcuts use different access keys: Alt + Shift + letter."
+#~ msgstr ""
+#~ "以下のショートカットは異なるアクセスキーを使用します: Alt + Shift + 文字"
+
+#~ msgid "Check Spelling"
+#~ msgstr "スペルをチェック"
+
+#~ msgid "Justify Text"
+#~ msgstr "均等割り付け"
+
+#~ msgid "Insert link"
+#~ msgstr "リンクの挿入"
+
+#~ msgid "Remove link"
+#~ msgstr "リンクの削除"
+
+#~ msgid "Quote"
+#~ msgstr "引用"
+
+#~ msgid "Insert Page Break tag"
+#~ msgstr "Page Break タグを挿入"
+
+#~ msgid "Comments Feed"
+#~ msgstr "コメントフィード"
+
+#~ msgid "Previous Post"
+#~ msgstr "過去の投稿へ"
+
+#~ msgid "Next Post"
+#~ msgstr "次の投稿へ"
+
+#~ msgid "Last Post"
+#~ msgstr "最新の投稿"
+
+#~ msgid "Newer Comments &raquo;"
+#~ msgstr "新しいコメント &raquo;"
+
+#~ msgid "&laquo; Older Comments"
+#~ msgstr "&laquo; 古いコメント"
+
+#~ msgid "S_Sunday_initial"
+#~ msgstr "日_Sunday_initial"
+
+#~ msgid "M_Monday_initial"
+#~ msgstr "月_Monday_initial"
+
+#~ msgid "T_Tuesday_initial"
+#~ msgstr "火_Tuesday_initial"
+
+#~ msgid "W_Wednesday_initial"
+#~ msgstr "水_Wednesday_initial"
+
+#~ msgid "T_Thursday_initial"
+#~ msgstr "木_Thursday_initial"
+
+#~ msgid "F_Friday_initial"
+#~ msgstr "金_Friday_initial"
+
+#~ msgid "S_Saturday_initial"
+#~ msgstr "土_Saturday_initial"
+
+#~ msgid "am"
+#~ msgstr "am"
+
+#~ msgid "pm"
+#~ msgstr "pm"
+
+#~ msgid "AM"
+#~ msgstr "AM"
+
+#~ msgid "PM"
+#~ msgstr "PM"
+
+#~ msgid "number_format_thousands_sep"
+#~ msgstr "number_format_thousands_sep"
+
+#~ msgid "Could not read image size"
+#~ msgstr "画像サイズを読み込めませんでした"
+
+#~ msgid "That user does not exist."
+#~ msgstr "選択したユーザーが見つかりません。"
+
+#~ msgid ""
+#~ "You cannot use that email address to signup. We are having problems with "
+#~ "them blocking some of our email. Please use another email provider."
+#~ msgstr ""
+#~ "私たちからのメールがブロックされることがあるため、そのメールアドレスはユー"
+#~ "ザー登録に使用できません。別のプロバイダーのメールアドレスを使用してくださ"
+#~ "い。"
+
+#~ msgid "Sorry, usernames must have letters too!"
+#~ msgstr "ユーザー名には半角英字の小文字を含めてください !"
+
+#~ msgid "Sorry, that email address is not allowed!"
+#~ msgstr "そのメールアドレスでは登録できません !"
+
+#~ msgid "Sorry, that username already exists!"
+#~ msgstr "このユーザー名はすでに使用されています !"
+
+#~ msgid "Sorry, that email address is already used!"
+#~ msgstr "このメールアドレスはすでに使用されています !"
+
+#~ msgid ""
+#~ "That username is currently reserved but may be available in a couple of "
+#~ "days."
+#~ msgstr ""
+#~ "このユーザー名は別の方が予約中ですが、数日すれば利用できるようになるかもし"
+#~ "れません。"
+
+#~ msgid ""
+#~ "That email address has already been used. Please check your inbox for an "
+#~ "activation email. It will become available in a couple of days if you do "
+#~ "nothing."
+#~ msgstr ""
+#~ "このメールアドレスはすでに使用されています。登録お知らせメールが届いていな"
+#~ "いか受信トレイを確認してください。数日以内に有効化されなければ、再びこの"
+#~ "メールアドレスをユーザー登録に使用できるようになります。"
+
+#~ msgid "Invalid activation key."
+#~ msgstr "無効な有効化キーです。"
+
+#~ msgid "Could not create user"
+#~ msgstr "ユーザーを作成できませんでした"
+
+#~ msgid "That username is already activated."
+#~ msgstr "このユーザー名はすでに有効化されています。"
+
+#~ msgid "New User Registration: %s"
+#~ msgstr "新規ユーザー登録: %s"
+
+#~ msgid "New %1$s User: %2$s"
+#~ msgstr "新しい %1$s のユーザー: %2$s"
+
+#~ msgid ""
+#~ "Dear User,\n"
+#~ "\n"
+#~ "Your new account is set up.\n"
+#~ "\n"
+#~ "You can log in with the following information:\n"
+#~ "Username: USERNAME\n"
+#~ "Password: PASSWORD\n"
+#~ "LOGINLINK\n"
+#~ "\n"
+#~ "Thanks!\n"
+#~ "\n"
+#~ "--The Team @ SITE_NAME"
+#~ msgstr ""
+#~ "ユーザー様へ\n"
+#~ "\n"
+#~ "新しいアカウントを作成しました。\n"
+#~ "\n"
+#~ "以下の情報を使ってログインできます。\n"
+#~ "ユーザー名: USERNAME\n"
+#~ "パスワード: PASSWORD\n"
+#~ "LOGINLINK\n"
+#~ "\n"
+#~ "どうもありがとうございます !\n"
+#~ "\n"
+#~ "-- 運営チーム @ SITE_NAME"
+
+#~ msgid "<strong>ERROR</strong>: Invalid username or incorrect password."
+#~ msgstr ""
+#~ "<strong>エラー</strong>: 無効なユーザー名か、間違ったパスワードです。"
+
+#~ msgid "Author : %1$s (IP: %2$s , %3$s)"
+#~ msgstr "投稿者: %1$s (IP: %2$s , %3$s)"
+
+#~ msgid "E-mail : %s"
+#~ msgstr "メール: %s"
+
+#~ msgid "URL    : %s"
+#~ msgstr "URL: %s"
+
+#~ msgid "Comment: "
+#~ msgstr "コメント: "
+
+#~ msgid "You can see all comments on this post here: "
+#~ msgstr "この投稿へのすべてのコメントは次の URL で見ることができます: "
+
+#~ msgid "[%1$s] Comment: \"%2$s\""
+#~ msgstr "[%1$s] コメント: \"%2$s\""
+
+#~ msgid "Website: %1$s (IP: %2$s , %3$s)"
+#~ msgstr "ウェブサイト: %1$s (IP: %2$s , %3$s)"
+
+#~ msgid "Excerpt: "
+#~ msgstr "抜粋: "
+
+#~ msgid "You can see all trackbacks on this post here: "
+#~ msgstr "この投稿へのすべてのトラックバックは次の URL で見ることができます: "
+
+#~ msgid "[%1$s] Trackback: \"%2$s\""
+#~ msgstr "[%1$s] トラックバック: \"%2$s\""
+
+#~ msgid "You can see all pingbacks on this post here: "
+#~ msgstr "この投稿へのすべてのピンバックは次の URL で見ることができます: "
+
+#~ msgid "[%1$s] Pingback: \"%2$s\""
+#~ msgstr "[%1$s] ピンバック: \"%2$s\""
+
+#~ msgid "Trash it: %s"
+#~ msgstr "ゴミ箱に移動する: %s"
+
+#~ msgid "Delete it: %s"
+#~ msgstr "削除する: %s"
+
+#~ msgid "Spam it: %s"
+#~ msgstr "スパムとしてマークする: %s"
+
+#~ msgid "Website : %1$s (IP: %2$s , %3$s)"
+#~ msgstr "ウェブサイト: %1$s (IP: %2$s , %3$s)"
+
+#~ msgid "Trackback excerpt: "
+#~ msgstr "トラックバック抜粋:"
+
+#~ msgid "Pingback excerpt: "
+#~ msgstr "ピンバック抜粋:"
+
+#~ msgid "Approve it: %s"
+#~ msgstr "承認する: %s"
+
+#~ msgid ""
+#~ "Currently %s comment is waiting for approval. Please visit the moderation "
+#~ "panel:"
+#~ msgid_plural ""
+#~ "Currently %s comments are waiting for approval. Please visit the "
+#~ "moderation panel:"
+#~ msgstr[0] ""
+#~ "現在%s件のコメントが承認待ちです。コメントモデレーション画面を開いてくださ"
+#~ "い:"
+
+#~ msgid "[%1$s] Please moderate: \"%2$s\""
+#~ msgstr "[%1$s] モデレートしてください: \"%2$s\""
+
+#~ msgid "Password Lost and Changed for user: %s"
+#~ msgstr "%s のこれまでのパスワードを失効し、変更しました。"
+
+#~ msgid "[%s] Password Lost/Changed"
+#~ msgstr "[%s] パスワードの失効と変更"
+
+#~ msgid "Username: %s"
+#~ msgstr "ユーザー名: %s"
+
+#~ msgid "[%s] New User Registration"
+#~ msgstr "[%s] 新規ユーザー登録"
+
+#~ msgid "Password: %s"
+#~ msgstr "パスワード: %s"
+
+#~ msgid "[%s] Your username and password"
+#~ msgstr "[%s] あなたのユーザー名とパスワード"
+
+#~ msgid "Protected: %s"
+#~ msgstr "保護中: %s"
+
+#~ msgid "Private: %s"
+#~ msgstr "非公開: %s"
+
+#~ msgid "There is no excerpt because this is a protected post."
+#~ msgstr "この投稿はパスワードで保護されているため抜粋文はありません。"
+
+#~ msgid "Next page"
+#~ msgstr "次ページ"
+
+#~ msgid "Previous page"
+#~ msgstr "前のページ"
+
+#~ msgid "Home"
+#~ msgstr "ホーム"
+
+#~ msgctxt "revision date format"
+#~ msgid "j F, Y @ G:i"
+#~ msgstr "Y年n月j日 @ G:i"
+
+#~ msgid "%1$s [Autosave]"
+#~ msgstr "%1$s [自動保存]"
+
+#~ msgid "%1$s [Current Revision]"
+#~ msgstr "%1$s [現在のリビジョン]"
+
+#~ msgid "Revision"
+#~ msgstr "投稿リビジョン"
+
+#~ msgctxt "post"
+#~ msgid "Published"
+#~ msgstr "公開済み"
+
+#~ msgid "Published <span class=\"count\">(%s)</span>"
+#~ msgid_plural "Published <span class=\"count\">(%s)</span>"
+#~ msgstr[0] "公開済み <span class=\"count\">(%s)</span>"
+
+#~ msgctxt "post"
+#~ msgid "Scheduled"
+#~ msgstr "予約済み"
+
+#~ msgid "Scheduled <span class=\"count\">(%s)</span>"
+#~ msgid_plural "Scheduled <span class=\"count\">(%s)</span>"
+#~ msgstr[0] "公開予約 <span class=\"count\">(%s)</span>"
+
+#~ msgctxt "post"
+#~ msgid "Draft"
+#~ msgstr "下書き"
+
+#~ msgid "Draft <span class=\"count\">(%s)</span>"
+#~ msgid_plural "Drafts <span class=\"count\">(%s)</span>"
+#~ msgstr[0] "下書き <span class=\"count\">(%s)</span>"
+
+#~ msgctxt "post"
+#~ msgid "Pending"
+#~ msgstr "保留中"
+
+#~ msgid "Pending <span class=\"count\">(%s)</span>"
+#~ msgid_plural "Pending <span class=\"count\">(%s)</span>"
+#~ msgstr[0] "保留中 <span class=\"count\">(%s)</span>"
+
+#~ msgctxt "post"
+#~ msgid "Private"
+#~ msgstr "非公開"
+
+#~ msgid "Private <span class=\"count\">(%s)</span>"
+#~ msgid_plural "Private <span class=\"count\">(%s)</span>"
+#~ msgstr[0] "非公開 <span class=\"count\">(%s)</span>"
+
+#~ msgctxt "post"
+#~ msgid "Trash"
+#~ msgstr "ゴミ箱"
+
+#~ msgid "Trash <span class=\"count\">(%s)</span>"
+#~ msgid_plural "Trash <span class=\"count\">(%s)</span>"
+#~ msgstr[0] "ゴミ箱 <span class=\"count\">(%s)</span>"
+
+#~ msgid "Content, title, and excerpt are empty."
+#~ msgstr "本文、タイトル、抜粋が空欄です。"
+
+#~ msgid "Could not update post in the database"
+#~ msgstr "データベース内の投稿を更新できませんでした"
+
+#~ msgid "Could not insert post into the database"
+#~ msgstr "データベースに投稿を追加できませんでした"
+
+#~ msgid "The page template is invalid."
+#~ msgstr "固定ページテンプレートが不正です。"
+
+#~ msgid "Cannot create a revision of a revision"
+#~ msgstr "リビジョンのリビジョンは作成できません"
+
+#~ msgid "You do not have permission to preview drafts."
+#~ msgstr "下書きをプレビューする権限がありません。"
+
+#~ msgid "Cannot create a user with an empty login name."
+#~ msgstr "ログイン名が入力されていないため、ユーザーを作成できませんでした。"
+
+#~ msgid "AIM"
+#~ msgstr "AIM"
+
+#~ msgid "Yahoo IM"
+#~ msgstr "Yahoo IM"
+
+#~ msgid "Jabber / Google Talk"
+#~ msgstr "Jabber / Google Talk"
+
+#~ msgid ""
+#~ "An error has occurred, which probably means the feed is down. Try again "
+#~ "later."
+#~ msgstr ""
+#~ "エラーが発生しました。ご指定のフィードは現在利用できないようです。後ほど再"
+#~ "度お試しください。"
+
+#~ msgid ""
+#~ "You are about to permanently delete the selected items.\n"
+#~ "  'Cancel' to stop, 'OK' to delete."
+#~ msgstr ""
+#~ "選択した項目を完全に削除しようとしています。\n"
+#~ "中止するには「キャンセル」を、削除するには「OK」をクリックしてください。"
+
+#~ msgid "Close all open tags"
+#~ msgstr "開いているすべてのタグを閉じる"
+
+#~ msgid "close tags"
+#~ msgstr "タグを閉じる"
+
+#~ msgid "Enter the URL"
+#~ msgstr "URL を入力してください"
+
+#~ msgid "Enter the URL of the image"
+#~ msgstr "画像の URL を入力してください"
+
+#~ msgid "Enter a description of the image"
+#~ msgstr "画像の説明を入力してください"
+
+#~ msgid "You do not have permission to do that."
+#~ msgstr "操作を実行する権限がありません。"
+
+#~ msgid "An unidentified error has occurred."
+#~ msgstr "不明なエラーが発生しました。"
+
+#~ msgid "Next &gt;"
+#~ msgstr "次へ &gt;"
+
+#~ msgid "&lt; Prev"
+#~ msgstr "&lt; 前へ"
+
+#~ msgid "Image"
+#~ msgstr "画像"
+
+#~ msgid "of"
+#~ msgstr "/"
+
+#~ msgid ""
+#~ "This feature requires inline frames. You have iframes disabled or your "
+#~ "browser does not support them."
+#~ msgstr ""
+#~ "この機能では iframe が必要です。現在 iframe を無効化しているか、対応してい"
+#~ "ないブラウザーを使っているようです。"
+
+#~ msgid "You have attempted to queue too many files."
+#~ msgstr "キューに入れたファイルが多すぎます。"
+
+#~ msgid "This file is empty. Please try another."
+#~ msgstr "このファイルは空です。別のファイルをお試しください。"
+
+#~ msgid "This file type is not allowed. Please try another."
+#~ msgstr ""
+#~ "このファイルタイプは許可されていません。別のファイルをお試しください。"
+
+#~ msgid "An error occurred in the upload. Please try again later."
+#~ msgstr "アップロード中にエラーが発生しました。後ほど再度お試しください。"
+
+#~ msgid ""
+#~ "There was a configuration error. Please contact the server administrator."
+#~ msgstr "設定にエラーがありました。サーバー管理者にお問い合わせください。"
+
+#~ msgid "You may only upload 1 file."
+#~ msgstr "ファイルのアップロードは1つまでです。"
+
+#~ msgid "HTTP error."
+#~ msgstr "HTTP エラー。"
+
+#~ msgid "Upload failed."
+#~ msgstr "アップロードに失敗しました。"
+
+#~ msgid "IO error."
+#~ msgstr "IO エラー。"
+
+#~ msgid "Security error."
+#~ msgstr "セキュリティエラー。"
+
+#~ msgid "Upload stopped."
+#~ msgstr "アップロードを中止しました。"
+
+#~ msgid "Crunching&hellip;"
+#~ msgstr "処理中&hellip;"
+
+#~ msgid "moved to the trash."
+#~ msgstr "ゴミ箱へ移動しました。"
+
+#~ msgctxt "password strength"
+#~ msgid "Medium"
+#~ msgstr "普通"
+
+#~ msgid "Publish on:"
+#~ msgstr "公開日:"
+
+#~ msgid "Schedule for:"
+#~ msgstr "公開予定日時:"
+
+#~ msgid "Published on:"
+#~ msgstr "公開日時:"
+
+#~ msgid "Show more comments"
+#~ msgstr "コメントをもっと見る"
+
+#~ msgid "No more comments found."
+#~ msgstr "これ以外のコメントは見つかりません。"
+
+#~ msgid "Password Protected"
+#~ msgstr "パスワードで保護されています"
+
+#~ msgid "Submitted on:"
+#~ msgstr "投稿日:"
+
+#~ msgid "Error while saving the changes."
+#~ msgstr "変更を保存する際にエラーが発生しました。"
+
+#~ msgid "Remove From Bulk Edit"
+#~ msgstr "一括編集から除く"
+
+#~ msgid "Plugin Information:"
+#~ msgstr "プラグイン情報:"
+
+#~ msgid "Saving..."
+#~ msgstr "保存しています…"
+
+#~ msgid ""
+#~ "Could not set that as the thumbnail image. Try a different attachment."
+#~ msgstr ""
+#~ "画像をサムネイルに設定できませんでした。他の添付ファイルをお試しください。"
+
+#~ msgid "Saving Draft&#8230;"
+#~ msgstr "下書きを保存しています&#8230;"
+
+#~ msgid "Invalid Taxonomy"
+#~ msgstr "不正なタクソノミーです。"
+
+#~ msgid "Empty Term"
+#~ msgstr "キーワードなし"
+
+#~ msgid "Invalid term ID"
+#~ msgstr "無効なキーワード ID"
+
+#~ msgid "A name is required for this term"
+#~ msgstr "このキーワードの名称は必須項目です"
+
+#~ msgid "Could not insert term into the database"
+#~ msgstr "キーワードをデータベースに挿入できませんでした"
+
+#~ msgid "The slug &#8220;%s&#8221; is already in use by another term"
+#~ msgstr ""
+#~ "このスラッグ &#8220;%s&#8221; はすでに他のキーワードで使用されています"
+
+#~ msgid "Invalid object ID"
+#~ msgstr "無効なオブジェクト ID"
+
+#~ msgid "Template is missing."
+#~ msgstr "テンプレートが見つかりません。"
+
+#~ msgid "The parent theme is missing. Please install the \"%s\" parent theme."
+#~ msgstr ""
+#~ "親テーマが見つかりません。\"%s\" の親テーマをインストールしてください。"
+
+#~ msgid "Stylesheet is missing."
+#~ msgstr "スタイルシートが見つかりません。"
+
+#~ msgid "<strong>ERROR</strong>: The username field is empty."
+#~ msgstr "<strong>エラー</strong>: ユーザー名を入力してください。"
+
+#~ msgid "<strong>ERROR</strong>: The password field is empty."
+#~ msgstr "<strong>エラー</strong>: パスワードを入力してください。"
+
+#~ msgid "<strong>ERROR</strong>: Your account has been marked as a spammer."
+#~ msgstr ""
+#~ "<strong>エラー</strong>: あなたのアカウントはスパマーとして登録されていま"
+#~ "す。"
+
+#~ msgid "Please log in again."
+#~ msgstr "もう一度ログインしてください。"
+
+#~ msgid "Sidebar %d"
+#~ msgstr "サイドバー %d"
+
+#~ msgid "<strong>ERROR</strong>: WordPress %1$s requires MySQL %2$s or higher"
+#~ msgstr ""
+#~ "<strong>エラー</strong>: WordPress %1$s には MySQL %2$s 以上が必要です。"
+
+#~ msgid "Powered by WordPress"
+#~ msgstr "Powered by WordPress"
+
+#~ msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
+#~ msgstr ""
+#~ "<strong>エラー</strong>: ユーザー名かメールアドレスを入力してください。"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: There is no user registered with that email "
+#~ "address."
+#~ msgstr ""
+#~ "<strong>エラー</strong>: そのメールアドレスのユーザーは登録されておりませ"
+#~ "ん。"
+
+#~ msgid "<strong>ERROR</strong>: Invalid username or e-mail."
+#~ msgstr "<strong>エラー</strong>: 無効なユーザー名またはメールアドレスです。"
+
+#~ msgid "Password reset is not allowed for this user"
+#~ msgstr "パスワードの初期化をする権限がありません。"
+
+#~ msgid "[%s] Password Reset"
+#~ msgstr "[%s] パスワードのリセット"
+
+#~ msgid "The e-mail could not be sent."
+#~ msgstr "メールを送信できませんでした。"
+
+#~ msgid "Invalid key"
+#~ msgstr "無効なキー"
+
+#~ msgid "<strong>ERROR</strong>: Please type your e-mail address."
+#~ msgstr "<strong>エラー</strong>: メールアドレスを入力してください。"
+
+#~ msgid "<strong>ERROR</strong>: The email address isn&#8217;t correct."
+#~ msgstr "<strong>エラー</strong>: メールアドレスが正しくありません。"
+
+#~ msgid "Sorry, that key does not appear to be valid."
+#~ msgstr "そのキーは無効なもののようです。"
+
+#~ msgid "Lost Password"
+#~ msgstr "パスワード紛失"
+
+#~ msgid "Username or E-mail:"
+#~ msgstr "ユーザー名またはメールアドレス:"
+
+#~ msgid "Get New Password"
+#~ msgstr "新しいパスワードを取得"
+
+#~ msgid "Are you lost?"
+#~ msgstr "迷子になってしまいましたか ?"
+
+#~ msgid "&larr; Back to %s"
+#~ msgstr "&larr; %s へ戻る"
+
+#~ msgid "Registration Form"
+#~ msgstr "登録フォーム"
+
+#~ msgid "Register For This Site"
+#~ msgstr "このブログに登録"
+
+#~ msgid "A password will be e-mailed to you."
+#~ msgstr "パスワードをメールで送信します。"
+
+#~ msgid "Password Lost and Found"
+#~ msgstr "パスワード紛失取り扱い"
+
+#~ msgid "Lost your password?"
+#~ msgstr "パスワードをお忘れですか ?"
+
+#~ msgid "You have logged in successfully."
+#~ msgstr "ログインに成功しました。"
+
+#~ msgid "You are now logged out."
+#~ msgstr "ログアウトしました。"
+
+#~ msgid "User registration is currently not allowed."
+#~ msgstr "現在、ユーザー登録はできません"
+
+#~ msgid "Check your e-mail for the confirmation link."
+#~ msgstr "確認用のリンクをメールで送信しましたので、ご確認ください。"
+
+#~ msgid "Check your e-mail for your new password."
+#~ msgstr "新しいパスワードをメールで送信しましたので、ご確認ください。"
+
+#~ msgid "Registration complete. Please check your e-mail."
+#~ msgstr "登録を完了しました。メールを確認してください。"
+
+#~ msgid "Slow down cowboy, no need to check for new mails so often!"
+#~ msgstr ""
+#~ "おっと、もう少しごゆっくり ! そんなに何度も新しいメールをチェックしなくて"
+#~ "も大丈夫です。"
+
+#~ msgid "There doesn&#8217;t seem to be any new mail."
+#~ msgstr "新しいメールはありません。"
+
+#~ msgid "Author is %s"
+#~ msgstr "作成者は %s です。"
+
+#~ msgid "<strong>Author:</strong> %s"
+#~ msgstr "<strong>作成者:</strong> %s"
+
+#~ msgid "<strong>Posted title:</strong> %s"
+#~ msgstr "<strong>投稿したタイトル:</strong> %s"
+
+#~ msgid "Oops: %s"
+#~ msgstr "エラー: %s"
+
+#~ msgid "Privacy:"
+#~ msgstr "プライバシー:"
+
+#~ msgid "(Must be at least 4 characters, letters and numbers only.)"
+#~ msgstr "(4文字以上の半角英数字のみ)"
+
+#~ msgid "Email&nbsp;Address:"
+#~ msgstr "メールアドレス: "
+
+#~ msgid "There was a problem, please correct the form below and try again."
+#~ msgstr "問題がおきました。下記の入力を修正して再度お試しください。"
+
+#~ msgid "Get your own %s account in seconds"
+#~ msgstr "%s のアカウントをいますぐ取得"
+
+#~ msgid "Just a username, please."
+#~ msgstr "ユーザー登録のみ。"
+
+#~ msgid "Next"
+#~ msgstr "次ページへ"
+
+#~ msgid "%s is your new username"
+#~ msgstr "新しいユーザー名は %s です"
+
+#~ msgid ""
+#~ "But, before you can start using your new username, <strong>you must "
+#~ "activate it</strong>."
+#~ msgstr ""
+#~ "ただし、新しいユーザー名を使用するには、<strong>このユーザー名を有効化する"
+#~ "必要があります</strong>。"
+
+#~ msgid ""
+#~ "If you do not activate your username within two days, you will have to "
+#~ "sign up again."
+#~ msgstr "2日以内にユーザー名を有効化しなかった場合、再登録が必要になります。"
+
+#~ msgid "Signup"
+#~ msgstr "サインアップ"
+
+#~ msgid "Still waiting for your email?"
+#~ msgstr "認証メールがまだ届いていませんか ?"
+
+#~ msgid "Registration has been disabled."
+#~ msgstr "登録は無効化されました。"
+
+#~ msgid "User registration has been disabled."
+#~ msgstr "ユーザー登録は無効化されました。"
+
+#~ msgid "Help"
+#~ msgstr "ヘルプ"
+
+#~ msgid "Width"
+#~ msgstr "幅"
+
+#~ msgid "<strong>ERROR</strong>: Please enter a username."
+#~ msgstr "<strong>エラー</strong>: ユーザー名を入力してください。"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: This email is already registered, please choose "
+#~ "another one."
+#~ msgstr ""
+#~ "<strong>エラー</strong>: このメールアドレスはすでに登録されています。別の"
+#~ "メールアドレスを選んでください。"
+
+#~ msgid "There are no options for this widget."
+#~ msgstr "このウィジェットにはオプションがありません。"
+
+#~ msgid "Strength indicator"
+#~ msgstr "強度表示器"
+
+#~ msgid "Very weak"
+#~ msgstr "非常に弱い"
+
+#~ msgid "Weak"
+#~ msgstr "弱い"
+
+#~ msgid "Strong"
+#~ msgstr "強力"
+
+#~ msgid "Edit Category"
+#~ msgstr "カテゴリーの編集"
+
+#~ msgctxt "page"
+#~ msgid "Add New"
+#~ msgstr "新規追加"
+
+#~ msgid "Allow people to post comments on new articles"
+#~ msgstr "新しい投稿へのコメントを許可する"
+
+#~ msgid "Date Format"
+#~ msgstr "日付のフォーマット"
+
+#~ msgid "Time Format"
+#~ msgstr "時刻フォーマット"
+
+#~ msgid "Height"
+#~ msgstr "高さ"
+
+#~ msgid "Default"
+#~ msgstr "デフォルト"
+
+#~ msgid "Insert Image"
+#~ msgstr "画像の挿入"
+
+#~ msgid "Visual"
+#~ msgstr "ビジュアル"
+
+#~ msgid "Title:"
+#~ msgstr "タイトル:"
+
+#~ msgid "Separate tags with commas"
+#~ msgstr "タグが複数ある場合はコンマで区切ってください"
+
+#~ msgid "(required)"
+#~ msgstr "(必須)"
+
+#~ msgid "Website"
+#~ msgstr "ウェブサイト"
+
+#~ msgid "Widgets"
+#~ msgstr "ウィジェット"
+
+#~ msgid "Sorry, your entry could not be posted. Something wrong happened."
+#~ msgstr "記事を投稿できませんでした。何か問題が起こりました。"
+
+#~ msgid "Sorry, you do not have the right to edit this post."
+#~ msgstr "この投稿を編集する権限がありません。"
+
+#~ msgid ""
+#~ "For some strange yet very annoying reason, this post could not be edited."
+#~ msgstr ""
+#~ "なにか面妖でとてもうっとうしい理由のため、この投稿は編集できませんでした。"
+
+#~ msgid "Sorry, you do not have the right to delete this post."
+#~ msgstr "この投稿を削除する権限がありません。"
+
+#~ msgid ""
+#~ "For some strange yet very annoying reason, this post could not be deleted."
+#~ msgstr ""
+#~ "なにか面妖でとてもうっとうしい理由のため、この投稿は削除できませんでした。"
+
+#~ msgid "Sorry, comments are closed for this item."
+#~ msgstr "この投稿へのコメントは受け付けていません。"
+
+#~ msgid "Sorry, you must be logged in to post a comment."
+#~ msgstr "コメントを投稿するにはログインしてください。"
+
+#~ msgid "&laquo; Previous Page"
+#~ msgstr "&laquo; 前ページへ"
+
+#~ msgid "Next Page &raquo;"
+#~ msgstr "次ページへ &raquo;"
+
+#~ msgid "Comments on %s"
+#~ msgstr "%s へのコメント"
+
+#~ msgid ""
+#~ "Powered by WordPress, state-of-the-art semantic personal publishing "
+#~ "platform."
+#~ msgstr ""
+#~ "Powered by WordPress, state-of-the-art semantic personal publishing "
+#~ "platform."
+
+#~ msgid "Enter your password to view comments."
+#~ msgstr "コメントを読むにはパスワードを入力してください。"
+
+#~ msgid "No Comments"
+#~ msgstr "コメントはまだありません"
+
+#~ msgid "1 Comment"
+#~ msgstr "1件のコメント"
+
+#~ msgid "% Comments"
+#~ msgstr "%件のコメント"
+
+#~ msgid "Edit This"
+#~ msgstr "編集"
+
+#~ msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+#~ msgstr "コメントを投稿するには<a href=\"%s\">ログイン</a>してください。"
+
+#~ msgid "Tags: "
+#~ msgstr "タグ: "
+
+#~ msgid "Pages:"
+#~ msgstr "ページ:"
+
+#~ msgid "Comments <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+#~ msgstr "コメントの <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+
+#~ msgid "<cite class=\"fn\">%s</cite> <span class=\"says\">says:</span>"
+#~ msgstr "<cite class=\"fn\">%s</cite> <span class=\"says\">より:</span>"
+
+#~ msgid "Your comment is awaiting moderation."
+#~ msgstr "あなたのコメントは承認待ちです。"
+
+#~ msgid "%1$s at %2$s"
+#~ msgstr "%1$s %2$s"
+
+#~ msgid "(Edit)"
+#~ msgstr "(編集)"
+
+#~ msgid "Meta"
+#~ msgstr "メタ情報"
+
+#~ msgid "XML error: %s at line %d"
+#~ msgstr "XML エラー: %s - %d行目"
+
+#~ msgid "Visit %s&#8217;s website"
+#~ msgstr "%s のウェブサイトを表示"
+
+#~ msgid "Posts by %s"
+#~ msgstr "%s の投稿"
+
+#~ msgid "Last updated: %s"
+#~ msgstr "最終更新日: %s"
+
+#~ msgid "Bookmarks"
+#~ msgstr "ブックマーク"
+
+#~ msgid ""
+#~ "Usage of user levels by plugins and themes is deprecated. Use roles and "
+#~ "capabilities instead."
+#~ msgstr ""
+#~ "プラグインやテーマでのユーザーレベルの使用は推奨されていません。代わりに権"
+#~ "限グループと権限を使ってください。"
+
+#~ msgid "No categories"
+#~ msgstr "カテゴリーなし"
+
+#~ msgid "%s topic"
+#~ msgid_plural "%s topics"
+#~ msgstr[0] "%s件のトピック"
+
+#~ msgid "No server specified"
+#~ msgstr "サーバーが設定されていません"
+
+#~ msgid "Error "
+#~ msgstr "エラー "
+
+#~ msgid "no login ID submitted"
+#~ msgstr "ログイン ID が入力されていません"
+
+#~ msgid "connection not established"
+#~ msgstr "接続できません"
+
+#~ msgid "No password submitted"
+#~ msgstr "パスワードが入力されていません"
+
+#~ msgid "Authentication failed"
+#~ msgstr "認証失敗"
+
+#~ msgid "No connection to server"
+#~ msgstr "サーバーに接続されていません"
+
+#~ msgid "No login ID submitted"
+#~ msgstr "ログイン ID が入力されていません"
+
+#~ msgid "No server banner"
+#~ msgstr "サーバーバナーなし"
+
+#~ msgid "abort"
+#~ msgstr "中止"
+
+#~ msgid "apop authentication failed"
+#~ msgstr "APOP 認証失敗"
+
+#~ msgid "Premature end of list"
+#~ msgstr "リストの途中終了"
+
+#~ msgid "Empty command string"
+#~ msgstr "コマンド文字列は空です"
+
+#~ msgid "connection does not exist"
+#~ msgstr "接続がありません"
+
+#~ msgid "No msg number submitted"
+#~ msgstr "No msg number submitted"
+
+#~ msgid "Command failed "
+#~ msgstr "コマンドは失敗しました"
+
+#~ msgid "Feed for all posts filed under %s"
+#~ msgstr "%s に含まれるすべての投稿のフィード"
+
+#~ msgid "Comments Off"
+#~ msgstr "コメントは受け付けていません。"
+
+#~ msgid "Comment on %s"
+#~ msgstr "%s へのコメント"
+
+#~ msgid "Log in to Reply"
+#~ msgstr "ログインして返信する"
+
+#~ msgid "Leave a Comment"
+#~ msgstr "コメントする"
+
+#~ msgid "Log in to leave a Comment"
+#~ msgstr "ログインしてコメントする"
+
+#~ msgid "Click here to cancel reply."
+#~ msgstr "返信をキャンセルする。"
+
+#~ msgid "Leave a Reply"
+#~ msgstr "コメントを残す"
+
+#~ msgid "Leave a Reply to %s"
+#~ msgstr "%s にコメントする"
+
+#~ msgid "Author"
+#~ msgstr "作成者"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgctxt "noun"
+#~ msgid "Comment"
+#~ msgstr "コメント"
+
+#~ msgid "Are you sure you want to do this?"
+#~ msgstr "本当に実行していいですか ?"
+
+#~ msgid "Edit"
+#~ msgstr "編集"
+
+#~ msgid "No media attachments found."
+#~ msgstr "メディア添付が見つかりませんでした。"
+
+#~ msgid "Undo"
+#~ msgstr "取り消し"
+
+#~ msgid "Apply"
+#~ msgstr "適用"
+
+#~ msgid "Comments"
+#~ msgstr "コメント"
+
+#~ msgid "Publish"
+#~ msgstr "公開"
+
+#~ msgid "Excerpt"
+#~ msgstr "抜粋"
+
+#~ msgid "Revisions"
+#~ msgstr "リビジョン"
+
+#~ msgctxt "adjective"
+#~ msgid "Approved"
+#~ msgstr "承認済み"
+
+#~ msgctxt "adjective"
+#~ msgid "Spam"
+#~ msgstr "スパム"
+
+#~ msgid "Link Categories"
+#~ msgstr "リンクカテゴリー"
+
+#~ msgid "Search Categories"
+#~ msgstr "カテゴリーを検索"
+
+#~ msgid "Edit Link Category"
+#~ msgstr "リンクカテゴリーの編集"
+
+#~ msgid "Update Category"
+#~ msgstr "カテゴリーを更新"
+
+#~ msgid "Add Link"
+#~ msgstr "リンク追加"
+
+#~ msgid "Save"
+#~ msgstr "保存"
+
+#~ msgid "Categories"
+#~ msgstr "カテゴリー"
+
+#~ msgid "Advanced"
+#~ msgstr "詳細"
+
+#~ msgid "Description"
+#~ msgstr "説明"
+
+#~ msgid "None"
+#~ msgstr "なし"
+
+#~ msgid "Invalid taxonomy"
+#~ msgstr "不正なタクソノミーです。"
+
+#~ msgid "Edit Tag"
+#~ msgstr "タグの編集"
+
+#~ msgctxt "post"
+#~ msgid "Add New"
+#~ msgstr "新規追加"
+
+#~ msgid "View Post"
+#~ msgstr "投稿を表示"
+
+#~ msgid "Edit Post"
+#~ msgstr "投稿の編集"
+
+#~ msgid "Done"
+#~ msgstr "完了"
+
+#~ msgid "Anonymous"
+#~ msgstr "匿名"
+
+#~ msgid "Submit"
+#~ msgstr "送信"
+
+#~ msgid "RSS"
+#~ msgstr "RSS"
+
+#~ msgid "Invalid file type"
+#~ msgstr "無効なファイル形式"
+
+#~ msgid "Preview"
+#~ msgstr "プレビュー"
+
+#~ msgid "Recent Comments"
+#~ msgstr "最近のコメント"
+
+#~ msgid "Cancel"
+#~ msgstr "キャンセル"
+
+#~ msgid "Content"
+#~ msgstr "内容"
+
+#~ msgid "Tags"
+#~ msgstr "タグ"
+
+#~ msgid "Save Draft"
+#~ msgstr "下書きとして保存"
+
+#~ msgid "No comments yet."
+#~ msgstr "コメントはまだありません。"
+
+#~ msgid "Reply"
+#~ msgstr "返信"
+
+#~ msgid "Pingback"
+#~ msgstr "ピンバック"
+
+#~ msgid "Trackback"
+#~ msgstr "トラックバック"
+
+#~ msgid "Number of comments to show:"
+#~ msgstr "表示するコメント数:"
+
+#~ msgid "<strong>RSS Error</strong>: %s"
+#~ msgstr "<strong>RSS エラー</strong>: %s"
+
+#~ msgid "Unknown Feed"
+#~ msgstr "不明なフィード"
+
+#~ msgid "Header"
+#~ msgstr "ヘッダー"
+
+#~ msgid "Sidebar"
+#~ msgstr "サイドバー"
+
+#~ msgid "Archives"
+#~ msgstr "アーカイブ"
+
+#~ msgid "Password"
+#~ msgstr "パスワード"
+
+#~ msgid "Redo"
+#~ msgstr "やり直し"
+
+#~ msgid "Thumbnail"
+#~ msgstr "サムネイル"
+
+#~ msgid "File &#8220;%s&#8221; doesn&#8217;t exist?"
+#~ msgstr "ファイル &#8220;%s&#8221; は存在しますか ?"
+
+#~ msgid "The GD image library is not installed."
+#~ msgstr "GD イメージライブラリがインストールされていません。"
+
+#~ msgid "File &#8220;%s&#8221; is not an image."
+#~ msgstr "&#8220;%s&#8221; は画像ファイルではありません。"
+
+#~ msgid "Add Media"
+#~ msgstr "メディアを追加"
+
+#~ msgid "Saved."
+#~ msgstr "保存しました。"
+
+#~ msgid "Left"
+#~ msgstr "左"
+
+#~ msgid "Center"
+#~ msgstr "中央"
+
+#~ msgid "Right"
+#~ msgstr "右"
+
+#~ msgid "Medium"
+#~ msgstr "中"
+
+#~ msgid "Full Size"
+#~ msgstr "フルサイズ"
+
+#~ msgid "Size"
+#~ msgstr "サイズ"
+
+#~ msgid "Alignment"
+#~ msgstr "配置"
+
+#~ msgid "Caption"
+#~ msgstr "キャプション"
+
+#~ msgid "Edit Image"
+#~ msgstr "画像を編集"
+
+#~ msgid "Image URL"
+#~ msgstr "画像の URL"
+
+#~ msgid "Save as Pending"
+#~ msgstr "レビュー待ちとして保存"
+
+#~ msgid "Privately Published"
+#~ msgstr "非公開"
+
+#~ msgid "OK"
+#~ msgstr "OK"
+
+#~ msgid "Private"
+#~ msgstr "非公開"
+
+#~ msgid "Public, Sticky"
+#~ msgstr "公開 (先頭に固定表示)"
+
+#~ msgid "Schedule"
+#~ msgstr "予約投稿"
+
+#~ msgid "Add or remove tags"
+#~ msgstr "タグの追加もしくは削除"
+
+#~ msgid "All Categories"
+#~ msgstr "カテゴリー一覧"
+
+#~ msgid "Dismiss"
+#~ msgstr "非表示にする"
+
+#~ msgid "Search"
+#~ msgstr "検索"
+
+#~ msgid "Images"
+#~ msgstr "画像"
+
+#~ msgid "View Page"
+#~ msgstr "固定ページを表示"
+
+#~ msgid "Links"
+#~ msgstr "リンク"
+
+#~ msgid "Uncategorized"
+#~ msgstr "未分類"
+
+#~ msgid "E-mail: %s"
+#~ msgstr "メールアドレス: %s"
+
+#~ msgid "Pages"
+#~ msgstr "固定ページ"
+
+#~ msgid "Close"
+#~ msgstr "閉じる"
+
+#~ msgid "Select"
+#~ msgstr "選択"
+
+#~ msgid "New Page"
+#~ msgstr "新規固定ページ"
+
+#~ msgid "Edit Media"
+#~ msgstr "メディアを編集"
+
+#~ msgid "New Post"
+#~ msgstr "新規投稿"
+
+#~ msgid "(no title)"
+#~ msgstr "(タイトルなし)"
+
+#~ msgid "Activation Key Required"
+#~ msgstr "有効化キーの入力"
+
+#~ msgid "Activation Key:"
+#~ msgstr "有効化キー:"
+
+#~ msgid "Your account is now active!"
+#~ msgstr "アカウント登録が完了しました !"
+
+#~ msgid "An error occurred during the activation"
+#~ msgstr "有効化の途中でエラーが発生しました。"
+
+#~ msgid "Username:"
+#~ msgstr "ユーザー名:"
+
+#~ msgid "No posts found."
+#~ msgstr "投稿が見つかりませんでした。"
+
+#~ msgid "Published"
+#~ msgstr "公開済み"
+
+#~ msgid "Pending Review"
+#~ msgstr "レビュー待ち"
+
+#~ msgid "Draft"
+#~ msgstr "下書き"
+
+#~ msgid "Y/m/d"
+#~ msgstr "Y年n月j日"
+
+#~ msgid "Visit Site"
+#~ msgstr "サイトを表示"
+
+#~ msgid "Log Out"
+#~ msgstr "ログアウト"
+
+#~ msgid "You do not have permission to upload files."
+#~ msgstr "ファイルをアップロードをする権限がありません。"
